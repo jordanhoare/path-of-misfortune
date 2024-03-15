@@ -7,3 +7,9 @@ tasks:
     cmds:
       - poetry run python path_of_misfortune/data/scrape_skill_gems.py
     silent: false
+
+  classes:
+    desc: Scrape class/ascendancy data from POEDB and save to JSON
+    cmds:
+      - poetry run python path_of_misfortune/data/scrape_classes.py
+    silent: false

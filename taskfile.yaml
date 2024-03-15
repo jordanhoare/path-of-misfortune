@@ -24,3 +24,4 @@ tasks:
       desc: "Run the scrape task to update skill gem data"
       cmds:
         - task: scrape.gem
+        - task: scrape.classes
