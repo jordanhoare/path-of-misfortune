@@ -1,0 +1,8 @@
+---
+version: "3"
+
+tasks:
+  start:
+    cmds:
+      - poetry run streamlit run path_of_misfortune/app.py
+    silent: false

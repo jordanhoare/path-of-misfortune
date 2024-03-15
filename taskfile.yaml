@@ -1,0 +1,10 @@
+---
+version: "3"
+
+includes:
+  streamlit: .taskfiles/streamlit/taskfile.yaml
+  
+tasks:
+  default:
+    cmds:
+      - task: streamlit.start

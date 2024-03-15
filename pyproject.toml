@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "path-of-misfortune"
 version = "0.1.0"
-description = ""
+description = "'Path of Misfortune' is a whimsically application designed for Path of Exile players who seek a refreshing twist in their gaming routine. It generates random builds by spinning a series of "wheels of misfortune," selecting an ascendancy and a set of skill gems for you and your friends to challenge yourselves with. Perfect for those adventurous souls who think they've seen it all in Wraeclast and groups looking to add a hefty dose of meme-building fun to their BroSSF league launches."
 authors = ["jordanhoare <jordanhoare0@gmail.com>"]
 readme = "README.md"
 packages = [{include = "path_of_misfortune"}]
