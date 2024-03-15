@@ -1,8 +1,8 @@
 import streamlit as st
 
-from path_of_misfortune.data.utils import load_skill_gems_from_json
+from path_of_misfortune.models.gems import SkillGem
 
-skill_gems = load_skill_gems_from_json("path_of_misfortune/data/skill_gems.json")
+skill_gems = SkillGem.from_json()
 
 for gem in skill_gems:
     st.write(gem)
