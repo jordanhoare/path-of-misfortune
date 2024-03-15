@@ -54,3 +54,11 @@ Run the following command to perform all code quality checks:
 task code_quality:all
 # Alternatively: poetry run ruff --check
 ```
+
+### Scrape skill gem data
+Run the following command to run a bsoup scrap on skill gem data:
+
+```zsh
+task scrape:gems
+# Alternatively: poetry run python path_of_misfortune/data/scrape_skill_gems.py
+```

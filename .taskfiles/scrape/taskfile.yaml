@@ -1,0 +1,9 @@
+---
+version: "3"
+
+tasks:
+  gems:
+    desc: Scrape skill gem data from POEDB and save to JSON
+    cmds:
+      - poetry run python path_of_misfortune/data/scrape_skill_gems.py
+    silent: false

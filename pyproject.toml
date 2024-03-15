@@ -9,6 +9,10 @@ packages = [{include = "path_of_misfortune"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 streamlit = "^1.32.2"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.3"
+types-requests = "^2.31.0.20240311"
+types-beautifulsoup4 = "^4.12.0.20240229"
 
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.3.2"
