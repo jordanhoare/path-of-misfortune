@@ -20,6 +20,8 @@ remove_names = {
     "Spirit Offering",
     "Brand Recall",
     "Snipe",
+    "Berserk",
+    "Arctic Armour",
 }
 
 excluded_tags = {"Aura", "Link", "Travel", "Herald", "Stance", "Guard", "Mark"}
