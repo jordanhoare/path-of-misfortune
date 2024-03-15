@@ -1,0 +1,40 @@
+---
+name: Code Quality Checks
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+
+jobs:
+  code-quality:
+    name: Linting, Formatting, and Type-Checking
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install Dependencies
+      run: |
+        pip install poetry
+        poetry install
+
+    - name: Run Ruff (Linting)
+      run: poetry run ruff check .
+
+    - name: Run Black (Formatting Check)
+      run: poetry run black --check .
+
+    - name: Run iSort (Import Sorting Check)
+      run: poetry run isort --check-only .
+
+    - name: Run mypy (Type Checking)
+      run: poetry run mypy .
