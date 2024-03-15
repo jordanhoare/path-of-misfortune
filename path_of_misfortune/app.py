@@ -11,7 +11,7 @@ skill_gems = SkillGem.from_json()
 
 st.title("Path of Misfortune")
 
-excluded_tags = {"aura", "link", "travel"}
+excluded_tags = {"Aura", "Link", "Travel", "Herald"}
 filtered_skill_gems = [
     gem
     for gem in skill_gems
