@@ -1,6 +1,5 @@
 # 🤖 Path of Misfortune
 
-## ✨ Table of Contents
 - [Introduction](#Introduction)
 - [Requirements](#Requirements)
 - [Getting Started](#getting-started)
