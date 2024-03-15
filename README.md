@@ -3,7 +3,6 @@
 - [Introduction](#Introduction)
 - [Requirements](#Requirements)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 
 <br>
 
