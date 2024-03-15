@@ -1,6 +1,7 @@
 [
     {
         "name": "Cleave",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Cleave",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DbGVhdmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7d4382b5e9/Cleave.png",
@@ -14,6 +15,7 @@
     },
     {
         "name": "Cleave of Rage",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Cleave_of_Rage",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Cleave%20of%20Rage%20inventory%20icon.webp",
@@ -26,6 +28,7 @@
     },
     {
         "name": "Glacial Hammer",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Glacial_Hammer",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9HbGFjaWFsSGFtbWVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ff8c64eae7/GlacialHammer.png",
@@ -39,6 +42,7 @@
     },
     {
         "name": "Glacial Hammer of Shattering",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Glacial_Hammer_of_Shattering",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Glacial%20Hammer%20of%20Shattering%20inventory%20icon.webp",
@@ -53,6 +57,7 @@
     },
     {
         "name": "Ground Slam",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Ground_Slam",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Hcm91bmRzbGFtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fe4a163a74/Groundslam.png",
@@ -66,6 +71,7 @@
     },
     {
         "name": "Ground Slam of Earthshaking",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Ground_Slam_of_Earthshaking",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ground%20Slam%20of%20Earthshaking%20inventory%20icon.webp",
@@ -79,6 +85,7 @@
     },
     {
         "name": "Heavy Strike",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Heavy_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZWF2eVN0cmlrZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6139e85fcd/HeavyStrike.png",
@@ -91,6 +98,7 @@
     },
     {
         "name": "Molten Strike",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Molten_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Nb2x0ZW5TdHJpa2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3493f9e016/MoltenStrike.png",
@@ -106,6 +114,7 @@
     },
     {
         "name": "Molten Strike of the Zenith",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Molten_Strike_of_the_Zenith",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Molten%20Strike%20of%20the%20Zenith%20inventory%20icon.webp",
@@ -121,6 +130,7 @@
     },
     {
         "name": "Perforate",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Perforate",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbG9vZFNhbmRTcGVhcnNTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c39a8a0fbb/BloodSandSpearsSkillGem.png",
@@ -135,6 +145,7 @@
     },
     {
         "name": "Perforate of Duality",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Perforate_of_Duality",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Perforate%20of%20Duality%20inventory%20icon.webp",
@@ -149,6 +160,7 @@
     },
     {
         "name": "Perforate of Bloodshed",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Perforate_of_Bloodshed",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Perforate%20of%20Bloodshed%20inventory%20icon.webp",
@@ -163,6 +175,7 @@
     },
     {
         "name": "Shield Crush",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Shield_Crush",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaGllbGRDcnVzaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/920a5e462f/ShieldCrush.png",
@@ -176,6 +189,7 @@
     },
     {
         "name": "Shield Crush of the Chieftain",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Shield_Crush_of_the_Chieftain",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Shield%20Crush%20of%20the%20Chieftain%20inventory%20icon.webp",
@@ -189,6 +203,7 @@
     },
     {
         "name": "Smite",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Smite",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TbWl0ZUdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7c84ed15fc/SmiteGem.png",
@@ -205,6 +220,7 @@
     },
     {
         "name": "Smite of Divine Judgement",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Smite_of_Divine_Judgement",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Smite%20of%20Divine%20Judgement%20inventory%20icon.webp",
@@ -219,6 +235,7 @@
     },
     {
         "name": "Vaal Cleave",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Cleave",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalCleave.webp",
@@ -234,6 +251,7 @@
     },
     {
         "name": "Vaal Glacial Hammer",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Glacial_Hammer",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsR2xhY2lhbEhhbW1lciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e61d33c3ae/VaalGlacialHammer.png",
@@ -250,6 +268,7 @@
     },
     {
         "name": "Vaal Ground Slam",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Ground_Slam",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsR3JvdW5kc2xhbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bff3395ac9/VaalGroundslam.png",
@@ -264,6 +283,7 @@
     },
     {
         "name": "Vaal Molten Strike",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Molten_Strike",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalMoltenStrike.webp",
@@ -281,6 +301,7 @@
     },
     {
         "name": "Vaal Smite",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Smite",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalSmite.webp",
@@ -298,6 +319,7 @@
     },
     {
         "name": "Blood and Sand",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Blood_and_Sand",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbG9vZFNhbmRTdGFuY2VHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/91016572ac/BloodSandStanceGem.png",
@@ -309,6 +331,7 @@
     },
     {
         "name": "Decoy Totem",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Decoy_Totem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZWNveVRvdGVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7a5edf8963/DecoyTotem.png",
@@ -321,6 +344,7 @@
     },
     {
         "name": "Devouring Totem",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Devouring_Totem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXZvdXJpbmdUb3RlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9aca73deb3/DevouringTotem.png",
@@ -332,6 +356,7 @@
     },
     {
         "name": "Holy Flame Totem",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Holy_Flame_Totem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtZVRvdGVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b622628c3c/FlameTotem.png",
@@ -347,6 +372,7 @@
     },
     {
         "name": "Holy Flame Totem of Ire",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Holy_Flame_Totem_of_Ire",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Holy%20Flame%20Totem%20of%20Ire%20inventory%20icon.webp",
@@ -362,6 +388,7 @@
     },
     {
         "name": "Ancestral Protector",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Ancestral_Protector",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbmNlc3RvclRvdGVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/adc32d4b40/AncestorTotem.png",
@@ -375,6 +402,7 @@
     },
     {
         "name": "Molten Shell",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Molten_Shell",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Nb2x0ZW5TaGVsbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9d2618a44a/MoltenShell.png",
@@ -390,6 +418,7 @@
     },
     {
         "name": "Reckoning",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Reckoning",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SZXB1bHNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0dcd24ad4a/Repulse.png",
@@ -404,6 +433,7 @@
     },
     {
         "name": "Rejuvenation Totem",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Rejuvenation_Totem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SZWp1dmluYXRpb25Ub3RlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5dd895cd90/RejuvinationTotem.png",
@@ -417,6 +447,7 @@
     },
     {
         "name": "Steelskin",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Steelskin",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9RdWlja0d1YXJkR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7dcb756463/QuickGuardGem.png",
@@ -429,6 +460,7 @@
     },
     {
         "name": "Vaal Molten Shell",
+        "vaal": true,
         "level": 4,
         "link": "https://poedb.tw/us/Vaal_Molten_Shell",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsTW9sdGVuU2hlbGwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/abf851cfba/VaalMoltenShell.png",
@@ -445,6 +477,7 @@
     },
     {
         "name": "Vaal Rejuvenation Totem",
+        "vaal": true,
         "level": 4,
         "link": "https://poedb.tw/us/Vaal_Rejuvenation_Totem",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalRejuvinationTotem.webp",
@@ -459,6 +492,7 @@
     },
     {
         "name": "Vigilant Strike",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Vigilant_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WaWdpbGFudFN0cmlrZUdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/14cfefd50c/VigilantStrikeGem.png",
@@ -471,6 +505,7 @@
     },
     {
         "name": "War Banner",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/War_Banner",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9XYXJiYW5uZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bad44cab15/Warbanner.png",
@@ -485,6 +520,7 @@
     },
     {
         "name": "Enduring Cry",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Enduring_Cry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbmR1cmluZ0NyeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4c160bac55/EnduringCry.png",
@@ -497,6 +533,7 @@
     },
     {
         "name": "Intimidating Cry",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Intimidating_Cry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JbnRpbWlkYXRpbmdDcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d208dc6bb5/IntimidatingCry.png",
@@ -510,6 +547,7 @@
     },
     {
         "name": "Leap Slam",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Leap_Slam",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MZWFwU2xhbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f65891de7a/LeapSlam.png",
@@ -525,6 +563,7 @@
     },
     {
         "name": "Leap Slam of Groundbreaking",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Leap_Slam_of_Groundbreaking",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Leap%20Slam%20of%20Groundbreaking%20inventory%20icon.webp",
@@ -540,6 +579,7 @@
     },
     {
         "name": "Shield Charge",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Shield_Charge",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaGllbGRDaGFyZ2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1749dcaa1d/ShieldCharge.png",
@@ -555,6 +595,7 @@
     },
     {
         "name": "Vitality",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Vitality",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WaXRhbGl0eSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/125dbe04db/Vitality.png",
@@ -567,6 +608,7 @@
     },
     {
         "name": "Absolution",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Absolution",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BYnNvbHV0aW9uQmxhc3RHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/11111dec89/AbsolutionBlastGem.png",
@@ -582,6 +624,7 @@
     },
     {
         "name": "Absolution of Inspiring",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Absolution_of_Inspiring",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Absolution%20of%20Inspiring%20inventory%20icon.webp",
@@ -597,6 +640,7 @@
     },
     {
         "name": "Chain Hook",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Chain_Hook",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DaGFpblN0cmlrZUdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/fa737225f6/ChainStrikeGem.png",
@@ -610,6 +654,7 @@
     },
     {
         "name": "Earthshatter",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Earthshatter",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGlrZVNsYW1HZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f366aab2cf/SpikeSlamGem.png",
@@ -624,6 +669,7 @@
     },
     {
         "name": "Earthshatter of Fragility",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Earthshatter_of_Fragility",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Earthshatter%20of%20Fragility%20inventory%20icon.webp",
@@ -638,6 +684,7 @@
     },
     {
         "name": "Earthshatter of Prominence",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Earthshatter_of_Prominence",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Earthshatter%20of%20Prominence%20inventory%20icon.webp",
@@ -652,6 +699,7 @@
     },
     {
         "name": "Exsanguinate",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Exsanguinate",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbG9vZFRlbmRyaWxzU2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d421c5c70e/BloodTendrilsSkillGem.png",
@@ -665,6 +713,7 @@
     },
     {
         "name": "Exsanguinate of Transmission",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Exsanguinate_of_Transmission",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Exsanguinate%20of%20Transmission%20inventory%20icon.webp",
@@ -678,6 +727,7 @@
     },
     {
         "name": "Infernal Blow",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Infernal_Blow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JbmZlcm5hbEJsb3ciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d016d5b5a1/InfernalBlow.png",
@@ -693,6 +743,7 @@
     },
     {
         "name": "Infernal Blow of Immolation",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Infernal_Blow_of_Immolation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Infernal%20Blow%20of%20Immolation%20inventory%20icon.webp",
@@ -708,6 +759,7 @@
     },
     {
         "name": "Searing Bond",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Searing_Bond",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TZWFyaW5nQm9uZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1bc968cafb/SearingBond.png",
@@ -720,6 +772,7 @@
     },
     {
         "name": "Static Strike",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Static_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdGF0aWNHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6eee72093c/StaticGem.png",
@@ -736,6 +789,7 @@
     },
     {
         "name": "Sunder",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Sunder",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaG9ja3dhdmVTbGFtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6e2b0e71d5/ShockwaveSlam.png",
@@ -749,6 +803,7 @@
     },
     {
         "name": "Sunder of Earthbreaking",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Sunder_of_Earthbreaking",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Sunder%20of%20Earthbreaking%20inventory%20icon.webp",
@@ -762,6 +817,7 @@
     },
     {
         "name": "Sweep",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Sweep",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Td2VlcCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dcad278e28/Sweep.png",
@@ -775,6 +831,7 @@
     },
     {
         "name": "Vaal Absolution",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Absolution",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalAbsolutionBlastGem.webp",
@@ -791,6 +848,7 @@
     },
     {
         "name": "Vaal Volcanic Fissure",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Volcanic_Fissure",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalVolcanicFissureSkillGem.webp",
@@ -807,6 +865,7 @@
     },
     {
         "name": "Volcanic Fissure",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Volcanic_Fissure",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VolcanicFissureSkillGem.webp",
@@ -822,6 +881,7 @@
     },
     {
         "name": "Volcanic Fissure of Snaking",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Volcanic_Fissure_of_Snaking",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Volcanic%20Fissure%20of%20Snaking%20inventory%20icon.webp",
@@ -836,6 +896,7 @@
     },
     {
         "name": "Ancestral Cry",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Ancestral_Cry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbmNlc3RyYWxDcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/50bc6a58db/AncestralCry.png",
@@ -848,6 +909,7 @@
     },
     {
         "name": "Corrupting Fever",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Corrupting_Fever",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db3JydXB0ZWRCbG9vZFN0cmVhbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/fdc2a5d375/CorruptedBloodStream.png",
@@ -860,6 +922,7 @@
     },
     {
         "name": "Defiance Banner",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Defiance_Banner",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Bcm1vdXJhbmRFdmFzaW9uQmFubmVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b1f3dcfaa6/ArmourandEvasionBanner.png",
@@ -874,6 +937,7 @@
     },
     {
         "name": "Flesh and Stone",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Flesh_and_Stone",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbG9vZFNhbmRBcm1vdXJHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a66b8062e9/BloodSandArmourGem.png",
@@ -887,6 +951,7 @@
     },
     {
         "name": "Herald of Ash",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Herald_of_Ash",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZXJhbGRvZkFzaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/10697bcbfe/HeraldofAsh.png",
@@ -901,6 +966,7 @@
     },
     {
         "name": "Herald of Purity",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Herald_of_Purity",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZXJhbGRPZkxpZ2h0IEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8e500098c1/HeraldOfLight%20Gem.png",
@@ -915,6 +981,7 @@
     },
     {
         "name": "Seismic Cry",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Seismic_Cry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TZWlzbWljQ3J5U2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f15f5c64ff/SeismicCrySkillGem.png",
@@ -927,6 +994,7 @@
     },
     {
         "name": "Warlord's Mark",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Warlords_Mark",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9XYXJsb3Jkc01hcmsiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a51e4dbcb5/WarlordsMark.png",
@@ -939,6 +1007,7 @@
     },
     {
         "name": "Infernal Cry",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Infernal_Cry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JbmZlcm5hbENyeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dccf976e24/InfernalCry.png",
@@ -955,6 +1024,7 @@
     },
     {
         "name": "Anger",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Anger",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbmdlciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e0cd2d4f3a/Anger.png",
@@ -968,6 +1038,7 @@
     },
     {
         "name": "Battlemage's Cry",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Battlemages_Cry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EaXZpbmVDcnlHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6948014a56/DivineCryGem.png",
@@ -982,6 +1053,7 @@
     },
     {
         "name": "Determination",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Determination",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXRlcm1pbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/64c8ca9798/Determination.png",
@@ -995,6 +1067,7 @@
     },
     {
         "name": "Dread Banner",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Dread_Banner",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EcmVhZEJhbm5lciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/cbb87b80fb/DreadBanner.png",
@@ -1009,6 +1082,7 @@
     },
     {
         "name": "Purity of Fire",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Purity_of_Fire",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlUmVzaXN0QXVyYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/973e94bf0a/FireResistAura.png",
@@ -1022,6 +1096,7 @@
     },
     {
         "name": "General's Cry",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Generals_Cry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9HZW5lcmFsc0NyeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8f89442969/GeneralsCry.png",
@@ -1034,6 +1109,7 @@
     },
     {
         "name": "Vulnerability",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Vulnerability",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WdWxuZXJhYmlsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1235ccd6b3/Vulnerability.png",
@@ -1049,6 +1125,7 @@
     },
     {
         "name": "Petrified Blood",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Petrified_Blood",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QZXRyaWZpZWRCbG9vZEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9221d2458d/PetrifiedBloodGem.png",
@@ -1059,6 +1136,7 @@
     },
     {
         "name": "Pride",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Pride",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QcmlkZUF1cmFHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/115cf1f969/PrideAuraGem.png",
@@ -1072,6 +1150,7 @@
     },
     {
         "name": "Punishment",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Punishment",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QdW5pc2htZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4bffb6422c/Punishment.png",
@@ -1086,6 +1165,7 @@
     },
     {
         "name": "Rallying Cry",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Rallying_Cry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SYWxseWluZ0NyeVNraWxsR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1baf6b0602/RallyingCrySkillGem.png",
@@ -1098,6 +1178,7 @@
     },
     {
         "name": "Vaal Impurity of Fire",
+        "vaal": true,
         "level": 24,
         "link": "https://poedb.tw/us/Vaal_Impurity_of_Fire",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsRmlyZVJlc2lzdEF1cmEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/53b34941ab/VaalFireResistAura.png",
@@ -1113,6 +1194,7 @@
     },
     {
         "name": "Vengeance",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Vengeance",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WZW5nZWFuY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a9abb2e8f3/Vengeance.png",
@@ -1127,6 +1209,7 @@
     },
     {
         "name": "Ancestral Warchief",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Ancestral_Warchief",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TbGFtVG90ZW1HZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0b4101de87/SlamTotemGem.png",
@@ -1141,6 +1224,7 @@
     },
     {
         "name": "Animate Guardian",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Animate_Guardian",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbmltYXRlQXJtb3VyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d6eff6fc81/AnimateArmour.png",
@@ -1152,6 +1236,7 @@
     },
     {
         "name": "Animate Guardian of Smiting",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Animate_Guardian_of_Smiting",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Animate%20Guardian%20of%20Smiting%20inventory%20icon.webp",
@@ -1164,6 +1249,7 @@
     },
     {
         "name": "Bladestorm",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Bladestorm",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGFkZXN0b3JtR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6b216c693a/BladestormGem.png",
@@ -1177,6 +1263,7 @@
     },
     {
         "name": "Bladestorm of Uncertainty",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Bladestorm_of_Uncertainty",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Bladestorm%20of%20Uncertainty%20inventory%20icon.webp",
@@ -1190,6 +1277,7 @@
     },
     {
         "name": "Reap",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Reap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbG9vZHJlYXBHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a57bea32ba/BloodreapGem.png",
@@ -1203,6 +1291,7 @@
     },
     {
         "name": "Boneshatter",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Boneshatter",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Cb25lc2hhdHRlclNraWxsR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9c37514f07/BoneshatterSkillGem.png",
@@ -1218,6 +1307,7 @@
     },
     {
         "name": "Boneshatter of Complex Trauma",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Boneshatter_of_Complex_Trauma",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Boneshatter%20of%20Complex%20Trauma%20inventory%20icon.webp",
@@ -1233,6 +1323,7 @@
     },
     {
         "name": "Boneshatter of Carnage",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Boneshatter_of_Carnage",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Boneshatter%20of%20Carnage%20inventory%20icon.webp",
@@ -1247,6 +1338,7 @@
     },
     {
         "name": "Consecrated Path",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Consecrated_Path",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ib2x5UGF0aEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ee190dd4e1/HolyPathGem.png",
@@ -1263,6 +1355,7 @@
     },
     {
         "name": "Consecrated Path of Endurance",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Consecrated_Path_of_Endurance",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Consecrated%20Path%20of%20Endurance%20inventory%20icon.webp",
@@ -1279,6 +1372,7 @@
     },
     {
         "name": "Dominating Blow",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Dominating_Blow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Eb21pbmF0aW5nQmxvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c0a344a783/DominatingBlow.png",
@@ -1293,6 +1387,7 @@
     },
     {
         "name": "Dominating Blow of Inspiring",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Dominating_Blow_of_Inspiring",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Dominating%20Blow%20of%20Inspiring%20inventory%20icon.webp",
@@ -1307,6 +1402,7 @@
     },
     {
         "name": "Earthquake",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Earthquake",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9RdWFrZVNsYW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3a3c0f1c46/QuakeSlam.png",
@@ -1321,6 +1417,7 @@
     },
     {
         "name": "Earthquake of Amplification",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Earthquake_of_Amplification",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Earthquake%20of%20Amplification%20inventory%20icon.webp",
@@ -1335,6 +1432,7 @@
     },
     {
         "name": "Ice Crash",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Ice_Crash",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VDcmFzaEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/23f3dc49b4/IceCrashGem.png",
@@ -1349,6 +1447,7 @@
     },
     {
         "name": "Ice Crash of Cadence",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Ice_Crash_of_Cadence",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ice%20Crash%20of%20Cadence%20inventory%20icon.webp",
@@ -1363,6 +1462,7 @@
     },
     {
         "name": "Rage Vortex",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Rage_Vortex",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SYWdlVm9ydGV4IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/31794f9875/RageVortex.png",
@@ -1376,6 +1476,7 @@
     },
     {
         "name": "Rage Vortex of Berserking",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Rage_Vortex_of_Berserking",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Rage%20Vortex%20of%20Berserking%20inventory%20icon.webp",
@@ -1388,6 +1489,7 @@
     },
     {
         "name": "Shockwave Totem",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Shockwave_Totem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaG9ja3dhdmVUb3RlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/406bc8da09/ShockwaveTotem.png",
@@ -1402,6 +1504,7 @@
     },
     {
         "name": "Tectonic Slam",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Tectonic_Slam",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9UZWN0b25pY1NsYW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f19a11009f/TectonicSlam.png",
@@ -1416,6 +1519,7 @@
     },
     {
         "name": "Tectonic Slam of Cataclysm",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Tectonic_Slam_of_Cataclysm",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Tectonic%20Slam%20of%20Cataclysm%20inventory%20icon.webp",
@@ -1430,6 +1534,7 @@
     },
     {
         "name": "Vaal Ancestral Warchief",
+        "vaal": true,
         "level": 28,
         "link": "https://poedb.tw/us/Vaal_Ancestral_Warchief",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TbGFtVG90ZW1HZW1WYWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/808d53c5cb/SlamTotemGemVaal.png",
@@ -1445,6 +1550,7 @@
     },
     {
         "name": "Vaal Domination",
+        "vaal": true,
         "level": 28,
         "link": "https://poedb.tw/us/Vaal_Domination",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalDominatingBlow.webp",
@@ -1461,6 +1567,7 @@
     },
     {
         "name": "Vaal Earthquake",
+        "vaal": true,
         "level": 28,
         "link": "https://poedb.tw/us/Vaal_Earthquake",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsUXVha2VTbGFtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ec286695a8/VaalQuakeSlam.png",
@@ -1476,6 +1583,7 @@
     },
     {
         "name": "Vaal Reap",
+        "vaal": true,
         "level": 28,
         "link": "https://poedb.tw/us/Vaal_Reap",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalBloodreapGem.webp",
@@ -1490,6 +1598,7 @@
     },
     {
         "name": "Berserk",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Berserk",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CZXNlcmtHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb31554c78/BeserkGem.png",
@@ -1500,6 +1609,7 @@
     },
     {
         "name": "Flame Link",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Flame_Link",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtZUxpbmtHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fee913312b/FlameLinkGem.png",
@@ -1513,6 +1623,7 @@
     },
     {
         "name": "Frozen Legion",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Frozen_Legion",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrozenLegionSkillGem.webp",
@@ -1527,6 +1638,7 @@
     },
     {
         "name": "Frozen Legion of Rallying",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Frozen_Legion_of_Rallying",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Frozen%20Legion%20of%20Rallying%20inventory%20icon.webp",
@@ -1541,6 +1653,7 @@
     },
     {
         "name": "Immortal Call",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Immortal_Call",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JbW1vcnRhbENhbGwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ef38147c94/ImmortalCall.png",
@@ -1553,6 +1666,7 @@
     },
     {
         "name": "Protective Link",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Protective_Link",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbG9ja0xpbmtHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a459f4b2b0/BlockLinkGem.png",
@@ -1565,6 +1679,7 @@
     },
     {
         "name": "Summon Flame Golem",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Flame_Golem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlRWxlbWVudGFsU3VtbW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/cca9edd8f9/FireElementalSummon.png",
@@ -1578,6 +1693,7 @@
     },
     {
         "name": "Summon Flame Golem of Hordes",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Flame_Golem_of_Hordes",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Flame%20Golem%20of%20Hordes%20inventory%20icon.webp",
@@ -1591,6 +1707,7 @@
     },
     {
         "name": "Summon Flame Golem of the Meteor",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Flame_Golem_of_the_Meteor",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Flame%20Golem%20of%20the%20Meteor%20inventory%20icon.webp",
@@ -1604,6 +1721,7 @@
     },
     {
         "name": "Summon Stone Golem",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Stone_Golem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Sb2NrR29sZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6a504c60d3/RockGolem.png",
@@ -1617,6 +1735,7 @@
     },
     {
         "name": "Summon Stone Golem of Hordes",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Stone_Golem_of_Hordes",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Stone%20Golem%20of%20Hordes%20inventory%20icon.webp",
@@ -1630,6 +1749,7 @@
     },
     {
         "name": "Summon Stone Golem of Safeguarding",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Stone_Golem_of_Safeguarding",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Stone%20Golem%20of%20Safeguarding%20inventory%20icon.webp",
@@ -1643,6 +1763,7 @@
     },
     {
         "name": "Vaal Immortal Call",
+        "vaal": true,
         "level": 34,
         "link": "https://poedb.tw/us/Vaal_Immortal_Call",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsSW1tb3J0YWxDYWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b14d53f387/VaalImmortalCall.png",
@@ -1656,6 +1777,7 @@
     },
     {
         "name": "Burning Arrow",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Burning_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CdXJuaW5nQXJyb3ciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4cc118dd2c/BurningArrow.png",
@@ -1669,6 +1791,7 @@
     },
     {
         "name": "Burning Arrow of Vigour",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Burning_Arrow_of_Vigour",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Burning%20Arrow%20of%20Vigour%20inventory%20icon.webp",
@@ -1682,6 +1805,7 @@
     },
     {
         "name": "Cobra Lash",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Cobra_Lash",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db2JyYUxhc2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9aaa5c123a/CobraLash.png",
@@ -1694,6 +1818,7 @@
     },
     {
         "name": "Double Strike",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Double_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Eb3VibGVTdHJpa2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/408f3e4fa9/DoubleStrike.png",
@@ -1707,6 +1832,7 @@
     },
     {
         "name": "Double Strike of Impaling",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Double_Strike_of_Impaling",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Double%20Strike%20of%20Impaling%20inventory%20icon.webp",
@@ -1720,6 +1846,7 @@
     },
     {
         "name": "Double Strike of Momentum",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Double_Strike_of_Momentum",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Double%20Strike%20of%20Momentum%20inventory%20icon.webp",
@@ -1732,6 +1859,7 @@
     },
     {
         "name": "Dual Strike",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Dual_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EdWFsU3RyaWtlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f5112d91e4/DualStrike.png",
@@ -1745,6 +1873,7 @@
     },
     {
         "name": "Dual Strike of Ambidexterity",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Dual_Strike_of_Ambidexterity",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Dual%20Strike%20of%20Ambidexterity%20inventory%20icon.webp",
@@ -1757,6 +1886,7 @@
     },
     {
         "name": "Ethereal Knives",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Ethereal_Knives",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FdGhlcmVhbEtuaXZlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/67d0809c7c/EtherealKnives.png",
@@ -1769,6 +1899,7 @@
     },
     {
         "name": "Ethereal Knives of Lingering Blades",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Ethereal_Knives_of_Lingering_Blades",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ethereal%20Knives%20of%20Lingering%20Blades%20inventory%20icon.webp",
@@ -1782,6 +1913,7 @@
     },
     {
         "name": "Ethereal Knives of the Massacre",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Ethereal_Knives_of_the_Massacre",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ethereal%20Knives%20of%20the%20Massacre%20inventory%20icon.webp",
@@ -1794,6 +1926,7 @@
     },
     {
         "name": "Frost Blades",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Frost_Blades",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VTdHJpa2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d5e5a05831/IceStrike.png",
@@ -1808,6 +1941,7 @@
     },
     {
         "name": "Frost Blades of Katabasis",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Frost_Blades_of_Katabasis",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Frost%20Blades%20of%20Katabasis%20inventory%20icon.webp",
@@ -1823,6 +1957,7 @@
     },
     {
         "name": "Ice Shot",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Ice_Shot",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VTaG90IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ebe439727/IceShot.png",
@@ -1837,6 +1972,7 @@
     },
     {
         "name": "Caustic Arrow",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Caustic_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Qb2lzb25BcnJvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8aa59b2327/PoisonArrow.png",
@@ -1852,6 +1988,7 @@
     },
     {
         "name": "Caustic Arrow of Poison",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Caustic_Arrow_of_Poison",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Caustic%20Arrow%20of%20Poison%20inventory%20icon.webp",
@@ -1866,6 +2003,7 @@
     },
     {
         "name": "Galvanic Arrow",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Galvanic_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaHJhcG5lbFNob3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6efbafb70a/ShrapnelShot.png",
@@ -1880,6 +2018,7 @@
     },
     {
         "name": "Galvanic Arrow of Energy",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Galvanic_Arrow_of_Energy",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Galvanic%20Arrow%20of%20Energy%20inventory%20icon.webp",
@@ -1893,6 +2032,7 @@
     },
     {
         "name": "Galvanic Arrow of Surging",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Galvanic_Arrow_of_Surging",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Galvanic%20Arrow%20of%20Surging%20inventory%20icon.webp",
@@ -1907,6 +2047,7 @@
     },
     {
         "name": "Explosive Trap",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Explosive_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaHJhcG5lbFRyYXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/77d643292b/ShrapnelTrap.png",
@@ -1921,6 +2062,7 @@
     },
     {
         "name": "Explosive Trap of Shrapnel",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Explosive_Trap_of_Shrapnel",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Explosive%20Trap%20of%20Shrapnel%20inventory%20icon.webp",
@@ -1935,6 +2077,7 @@
     },
     {
         "name": "Explosive Trap of Magnitude",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Explosive_Trap_of_Magnitude",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Explosive%20Trap%20of%20Magnitude%20inventory%20icon.webp",
@@ -1948,6 +2091,7 @@
     },
     {
         "name": "Split Arrow",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Split_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGxpdEFycm93IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3107527c8d/SplitArrow.png",
@@ -1961,6 +2105,7 @@
     },
     {
         "name": "Split Arrow of Splitting",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Split_Arrow_of_Splitting",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Split%20Arrow%20of%20Splitting%20inventory%20icon.webp",
@@ -1973,6 +2118,7 @@
     },
     {
         "name": "Splitting Steel",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Splitting_Steel",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JbXBhY3RpbmdTdGVlbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/67462b2579/ImpactingSteelGem.png",
@@ -1986,6 +2132,7 @@
     },
     {
         "name": "Splitting Steel of Ammunition",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Splitting_Steel_of_Ammunition",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Splitting%20Steel%20of%20Ammunition%20inventory%20icon.webp",
@@ -1999,6 +2146,7 @@
     },
     {
         "name": "Spectral Throw",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Spectral_Throw",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9HaG9zdGx5VGhyb3ciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c3b7611261/GhostlyThrow.png",
@@ -2010,6 +2158,7 @@
     },
     {
         "name": "Spectral Throw of Materialising",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Spectral_Throw_of_Materialising",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Spectral%20Throw%20of%20Materialising%20inventory%20icon.webp",
@@ -2021,6 +2170,7 @@
     },
     {
         "name": "Vaal Burning Arrow",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Burning_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQnVybmluZ0Fycm93IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e355012d87/VaalBurningArrow.png",
@@ -2036,6 +2186,7 @@
     },
     {
         "name": "Vaal Caustic Arrow",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Caustic_Arrow",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalPoisonArrow.webp",
@@ -2052,6 +2203,7 @@
     },
     {
         "name": "Vaal Double Strike",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Double_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsRG91YmxlU3RyaWtlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/25055243d2/VaalDoubleStrike.png",
@@ -2067,6 +2219,7 @@
     },
     {
         "name": "Vaal Ice Shot",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Ice_Shot",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalIceShot.webp",
@@ -2083,6 +2236,7 @@
     },
     {
         "name": "Vaal Spectral Throw",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Spectral_Throw",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsR2hvc3RseVRocm93IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8e229697ec/VaalGhostlyThrow.png",
@@ -2095,6 +2249,7 @@
     },
     {
         "name": "Viper Strike",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Viper_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WaXBlclN0cmlrZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/185f7013c7/ViperStrike.png",
@@ -2109,6 +2264,7 @@
     },
     {
         "name": "Viper Strike of the Mamba",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Viper_Strike_of_the_Mamba",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Viper%20Strike%20of%20the%20Mamba%20inventory%20icon.webp",
@@ -2123,6 +2279,7 @@
     },
     {
         "name": "Animate Weapon",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Animate_Weapon",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbmltYXRlV2VhcG9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/739caf7508/AnimateWeapon.png",
@@ -2136,6 +2293,7 @@
     },
     {
         "name": "Animate Weapon of Self Reflection",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Animate_Weapon_of_Self_Reflection",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Animate%20Weapon%20of%20Self%20Reflection%20inventory%20icon.webp",
@@ -2148,6 +2306,7 @@
     },
     {
         "name": "Animate Weapon of Ranged Arms",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Animate_Weapon_of_Ranged_Arms",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Animate%20Weapon%20of%20Ranged%20Arms%20inventory%20icon.webp",
@@ -2161,6 +2320,7 @@
     },
     {
         "name": "Bear Trap",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Bear_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CZWFyVHJhcCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a6ad2b45cf/BearTrap.png",
@@ -2174,6 +2334,7 @@
     },
     {
         "name": "Bear Trap of Skewers",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Bear_Trap_of_Skewers",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Bear%20Trap%20of%20Skewers%20inventory%20icon.webp",
@@ -2187,6 +2348,7 @@
     },
     {
         "name": "Dash",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Dash",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9RdWlja0Rhc2hHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9b7d6a4128/QuickDashGem.png",
@@ -2200,6 +2362,7 @@
     },
     {
         "name": "Detonate Dead",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Detonate_Dead",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXRvbmF0ZURlYWQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/109199fc84/DetonateDead.png",
@@ -2212,6 +2375,7 @@
     },
     {
         "name": "Detonate Dead of Scavenging",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Detonate_Dead_of_Scavenging",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Detonate%20Dead%20of%20Scavenging%20inventory%20icon.webp",
@@ -2224,6 +2388,7 @@
     },
     {
         "name": "Detonate Dead of Chain Reaction",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Detonate_Dead_of_Chain_Reaction",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Detonate%20Dead%20of%20Chain%20Reaction%20inventory%20icon.webp",
@@ -2236,6 +2401,7 @@
     },
     {
         "name": "Sniper's Mark",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Snipers_Mark",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Qcm9qZWN0aWxlV2Vha25lc3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3dd2dfcc61/ProjectileWeakness.png",
@@ -2248,6 +2414,7 @@
     },
     {
         "name": "Puncture",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Puncture",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QdW5jdHVyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5c16efd68b/Puncture.png",
@@ -2264,6 +2431,7 @@
     },
     {
         "name": "Riposte",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Riposte",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SaXBvc3RlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/89ea2f5268/Riposte.png",
@@ -2278,6 +2446,7 @@
     },
     {
         "name": "Shrapnel Ballista",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Shrapnel_Ballista",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaG90Z3VuVG90ZW1Cb3dTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c52d90f33e/ShotgunTotemBowSkillGem.png",
@@ -2292,6 +2461,7 @@
     },
     {
         "name": "Shrapnel Ballista of Steel",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Shrapnel_Ballista_of_Steel",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Shrapnel%20Ballista%20of%20Steel%20inventory%20icon.webp",
@@ -2306,6 +2476,7 @@
     },
     {
         "name": "Vaal Animate Weapon",
+        "vaal": true,
         "level": 4,
         "link": "https://poedb.tw/us/Vaal_Animate_Weapon",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalAnimateWeapon.webp",
@@ -2320,6 +2491,7 @@
     },
     {
         "name": "Vaal Detonate Dead",
+        "vaal": true,
         "level": 4,
         "link": "https://poedb.tw/us/Vaal_Detonate_Dead",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsRGV0b25hdGVEZWFkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7f8a6c59f1/VaalDetonateDead.png",
@@ -2333,6 +2505,7 @@
     },
     {
         "name": "Blink Arrow",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Blink_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGlua0Fycm93IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2836299d6e/BlinkArrow.png",
@@ -2348,6 +2521,7 @@
     },
     {
         "name": "Blink Arrow of Bombarding Clones",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Blink_Arrow_of_Bombarding_Clones",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blink%20Arrow%20of%20Bombarding%20Clones%20inventory%20icon.webp",
@@ -2363,6 +2537,7 @@
     },
     {
         "name": "Blink Arrow of Prismatic Clones",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Blink_Arrow_of_Prismatic_Clones",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blink%20Arrow%20of%20Prismatic%20Clones%20inventory%20icon.webp",
@@ -2379,6 +2554,7 @@
     },
     {
         "name": "Unearth",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Unearth",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Cb25lTGFuY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ba9f4da647/BoneLance.png",
@@ -2392,6 +2568,7 @@
     },
     {
         "name": "Flicker Strike",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Flicker_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGlja2VyU3RyaWtlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4d16009413/FlickerStrike.png",
@@ -2406,6 +2583,7 @@
     },
     {
         "name": "Flicker Strike of Power",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Flicker_Strike_of_Power",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Flicker%20Strike%20of%20Power%20inventory%20icon.webp",
@@ -2421,6 +2599,7 @@
     },
     {
         "name": "Mirror Arrow",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Mirror_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9NaXJyb3JBcnJvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/73b6c24402/MirrorArrow.png",
@@ -2436,6 +2615,7 @@
     },
     {
         "name": "Mirror Arrow of Bombarding Clones",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Mirror_Arrow_of_Bombarding_Clones",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Mirror%20Arrow%20of%20Bombarding%20Clones%20inventory%20icon.webp",
@@ -2451,6 +2631,7 @@
     },
     {
         "name": "Mirror Arrow of Prismatic Clones",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Mirror_Arrow_of_Prismatic_Clones",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Mirror%20Arrow%20of%20Prismatic%20Clones%20inventory%20icon.webp",
@@ -2467,6 +2648,7 @@
     },
     {
         "name": "Precision",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Precision",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BY2N1cmFjeWFuZENyaXRpY2FsQ2hhbmNlQXVyYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3996a0a9cf/AccuracyandCriticalChanceAura.png",
@@ -2480,6 +2662,7 @@
     },
     {
         "name": "Smoke Mine",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Smoke_Mine",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TbW9rZUJvbWIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b002b08d2d/SmokeBomb.png",
@@ -2496,6 +2679,7 @@
     },
     {
         "name": "Vaal Flicker Strike",
+        "vaal": true,
         "level": 10,
         "link": "https://poedb.tw/us/Vaal_Flicker_Strike",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalFlickerStrike.webp",
@@ -2511,6 +2695,7 @@
     },
     {
         "name": "Whirling Blades",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Whirling_Blades",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9XaGlybGluZ0JsYWRlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c2fc108c55/WhirlingBlades.png",
@@ -2524,6 +2709,7 @@
     },
     {
         "name": "Withering Step",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Withering_Step",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9XaXRoZXJpbmdTdGVwR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6f949bee1e/WitheringStepGem.png",
@@ -2540,6 +2726,7 @@
     },
     {
         "name": "Barrage",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Barrage",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CYXJyYWdlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0669bef74e/Barrage.png",
@@ -2552,6 +2739,7 @@
     },
     {
         "name": "Barrage of Volley Fire",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Barrage_of_Volley_Fire",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Barrage%20of%20Volley%20Fire%20inventory%20icon.webp",
@@ -2564,6 +2752,7 @@
     },
     {
         "name": "Blade Trap",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Blade_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGFkZVRyYXBTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/b4ce2d5dc5/BladeTrapSkillGem.png",
@@ -2576,6 +2765,7 @@
     },
     {
         "name": "Blade Trap of Greatswords",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Blade_Trap_of_Greatswords",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blade%20Trap%20of%20Greatswords%20inventory%20icon.webp",
@@ -2589,6 +2779,7 @@
     },
     {
         "name": "Blade Trap of Laceration",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Blade_Trap_of_Laceration",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blade%20Trap%20of%20Laceration%20inventory%20icon.webp",
@@ -2602,6 +2793,7 @@
     },
     {
         "name": "Blade Vortex",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Blade_Vortex",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGlubmluZ0V0aGVyZWFsQmxhZGVzR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8f7a7d7b81/SpinningEtherealBladesGem.png",
@@ -2615,6 +2807,7 @@
     },
     {
         "name": "Blade Vortex of the Scythe",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Blade_Vortex_of_the_Scythe",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blade%20Vortex%20of%20the%20Scythe%20inventory%20icon.webp",
@@ -2628,6 +2821,7 @@
     },
     {
         "name": "Elemental Hit",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Elemental_Hit",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbGVtZW50YWxoaXQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/498f9dcd1e/Elementalhit.png",
@@ -2647,6 +2841,7 @@
     },
     {
         "name": "Fire Trap",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Fire_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlVHJhcCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9d94f9ce06/FireTrap.png",
@@ -2661,6 +2856,7 @@
     },
     {
         "name": "Fire Trap of Blasting",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Fire_Trap_of_Blasting",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Fire%20Trap%20of%20Blasting%20inventory%20icon.webp",
@@ -2675,6 +2871,7 @@
     },
     {
         "name": "Lacerate",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Lacerate",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Eb3VibGVTbGFzaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/fb44a829bd/DoubleSlash.png",
@@ -2688,6 +2885,7 @@
     },
     {
         "name": "Lacerate of Butchering",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Lacerate_of_Butchering",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lacerate%20of%20Butchering%20inventory%20icon.webp",
@@ -2700,6 +2898,7 @@
     },
     {
         "name": "Lacerate of Haemorrhage",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Lacerate_of_Haemorrhage",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lacerate%20of%20Haemorrhage%20inventory%20icon.webp",
@@ -2713,6 +2912,7 @@
     },
     {
         "name": "Lightning Arrow",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Lightning_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdBcnJvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f5ad901f20/LightningArrow.png",
@@ -2727,6 +2927,7 @@
     },
     {
         "name": "Lightning Arrow of Electrocution",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Lightning_Arrow_of_Electrocution",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lightning%20Arrow%20of%20Electrocution%20inventory%20icon.webp",
@@ -2740,6 +2941,7 @@
     },
     {
         "name": "Lightning Strike",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Lightning_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdTdHJpa2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e593a52f90/LightningStrike.png",
@@ -2754,6 +2956,7 @@
     },
     {
         "name": "Lightning Strike of Arcing",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Lightning_Strike_of_Arcing",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lightning%20Strike%20of%20Arcing%20inventory%20icon.webp",
@@ -2769,6 +2972,7 @@
     },
     {
         "name": "Poisonous Concoction",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Poisonous_Concoction",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Qb2lzb25vdXNDb25jb2N0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b1cde568a6/PoisonousConcoction.png",
@@ -2782,6 +2986,7 @@
     },
     {
         "name": "Rain of Arrows",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Rain_of_Arrows",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SYWlub2ZBcnJvd3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a7e02c03ad/RainofArrows.png",
@@ -2795,6 +3000,7 @@
     },
     {
         "name": "Rain of Arrows of Artillery",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Rain_of_Arrows_of_Artillery",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Rain%20of%20Arrows%20of%20Artillery%20inventory%20icon.webp",
@@ -2808,6 +3014,7 @@
     },
     {
         "name": "Rain of Arrows of Saturation",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Rain_of_Arrows_of_Saturation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Rain%20of%20Arrows%20of%20Saturation%20inventory%20icon.webp",
@@ -2821,6 +3028,7 @@
     },
     {
         "name": "Reave",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Reave",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SZWF2ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/cdfa67890f/Reave.png",
@@ -2833,6 +3041,7 @@
     },
     {
         "name": "Reave of Refraction",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Reave_of_Refraction",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Reave%20of%20Refraction%20inventory%20icon.webp",
@@ -2845,6 +3054,7 @@
     },
     {
         "name": "Shattering Steel",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Shattering_Steel",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaGF0dGVyaW5nU3RlZWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f2f0ff3d2b/ShatteringSteel.png",
@@ -2858,6 +3068,7 @@
     },
     {
         "name": "Shattering Steel of Ammunition",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Shattering_Steel_of_Ammunition",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Shattering%20Steel%20of%20Ammunition%20inventory%20icon.webp",
@@ -2872,6 +3083,7 @@
     },
     {
         "name": "Siege Ballista",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Siege_Ballista",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Dcm9zc0Jvd1RvdGVtR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/90dbc7b7ca/CrossBowTotemGem.png",
@@ -2885,6 +3097,7 @@
     },
     {
         "name": "Siege Ballista of Splintering",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Siege_Ballista_of_Splintering",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Siege%20Ballista%20of%20Splintering%20inventory%20icon.webp",
@@ -2898,6 +3111,7 @@
     },
     {
         "name": "Spectral Helix",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Spectral_Helix",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGVjdHJhbFNwaXJhbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a4324285be/SpectralSpiralGem.png",
@@ -2909,6 +3123,7 @@
     },
     {
         "name": "Toxic Rain",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Toxic_Rain",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SYWlub2ZTcG9yZXNHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/968913d716/RainofSporesGem.png",
@@ -2924,6 +3139,7 @@
     },
     {
         "name": "Toxic Rain of Sporeburst",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Toxic_Rain_of_Sporeburst",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Toxic%20Rain%20of%20Sporeburst%20inventory%20icon.webp",
@@ -2939,6 +3155,7 @@
     },
     {
         "name": "Toxic Rain of Withering",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Toxic_Rain_of_Withering",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Toxic%20Rain%20of%20Withering%20inventory%20icon.webp",
@@ -2954,6 +3171,7 @@
     },
     {
         "name": "Vaal Blade Vortex",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Blade_Vortex",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsU3Bpbm5pbmdFdGhlcmVhbEJsYWRlc0dlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5fe3da4029/VaalSpinningEtherealBladesGem.png",
@@ -2969,6 +3187,7 @@
     },
     {
         "name": "Vaal Lightning Arrow",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Lightning_Arrow",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalLightningArrow.webp",
@@ -2984,6 +3203,7 @@
     },
     {
         "name": "Vaal Lightning Strike",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Lightning_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsTGlnaHRuaW5nU3RyaWtlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/88759201ae/VaalLightningStrike.png",
@@ -3000,6 +3220,7 @@
     },
     {
         "name": "Vaal Rain of Arrows",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Rain_of_Arrows",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsUmFpbm9mQXJyb3dzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d81e7841f5/VaalRainofArrows.png",
@@ -3014,6 +3235,7 @@
     },
     {
         "name": "Vaal Reave",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Reave",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsUmVhdmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c9bf2b2b26/VaalReave.png",
@@ -3027,6 +3249,7 @@
     },
     {
         "name": "Vaal Venom Gyre",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Venom_Gyre",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalSnappingAdder.webp",
@@ -3041,6 +3264,7 @@
     },
     {
         "name": "Venom Gyre",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Venom_Gyre",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TbmFwcGluZ0FkZGVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d3f9a31aac/SnappingAdder.png",
@@ -3054,6 +3278,7 @@
     },
     {
         "name": "Volatile Dead",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Volatile_Dead",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Wb2xhdGlsZURlYWQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/75c543dab5/VolatileDead.png",
@@ -3066,6 +3291,7 @@
     },
     {
         "name": "Volatile Dead of Confinement",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Volatile_Dead_of_Confinement",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Volatile%20Dead%20of%20Confinement%20inventory%20icon.webp",
@@ -3079,6 +3305,7 @@
     },
     {
         "name": "Volatile Dead of Seething",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Volatile_Dead_of_Seething",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Volatile%20Dead%20of%20Seething%20inventory%20icon.webp",
@@ -3091,6 +3318,7 @@
     },
     {
         "name": "Arctic Armour",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Arctic_Armour",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VTaGllbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/22044364a7/IceShield.png",
@@ -3103,6 +3331,7 @@
     },
     {
         "name": "Blade Blast",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Blade_Blast",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGFkZUJ1cnN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/599beedaf4/BladeBurst.png",
@@ -3115,6 +3344,7 @@
     },
     {
         "name": "Blade Blast of Unloading",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Blade_Blast_of_Unloading",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blade%20Blast%20of%20Unloading%20inventory%20icon.webp",
@@ -3128,6 +3358,7 @@
     },
     {
         "name": "Blade Blast of Dagger Detonation",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Blade_Blast_of_Dagger_Detonation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blade%20Blast%20of%20Dagger%20Detonation%20inventory%20icon.webp",
@@ -3141,6 +3372,7 @@
     },
     {
         "name": "Blood Rage",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Blood_Rage",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbG9vZFJhZ2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0a98a6bf95/BloodRage.png",
@@ -3153,6 +3385,7 @@
     },
     {
         "name": "Desecrate",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Desecrate",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXNlY3JhdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/25ac841d64/Desecrate.png",
@@ -3166,6 +3399,7 @@
     },
     {
         "name": "Ensnaring Arrow",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Ensnaring_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbnNuYXJpbmdBcnJvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/d73b324dd3/EnsnaringArrow.png",
@@ -3179,6 +3413,7 @@
     },
     {
         "name": "Frenzy",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Frenzy",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GcmVuenkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/cd16439994/Frenzy.png",
@@ -3193,6 +3428,7 @@
     },
     {
         "name": "Frenzy of Onslaught",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Frenzy_of_Onslaught",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Frenzy%20of%20Onslaught%20inventory%20icon.webp",
@@ -3207,6 +3443,7 @@
     },
     {
         "name": "Herald of Agony",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Herald_of_Agony",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZXJhbGRPZkFnb255R2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0e95349c4d/HeraldOfAgonyGem.png",
@@ -3221,6 +3458,7 @@
     },
     {
         "name": "Herald of Ice",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Herald_of_Ice",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZXJhbGRvZkljZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ce4dc073c8/HeraldofIce.png",
@@ -3234,6 +3472,7 @@
     },
     {
         "name": "Poacher's Mark",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Poachers_Mark",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Qb2FjaGVyc01hcmsiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4a716d544e/PoachersMark.png",
@@ -3247,6 +3486,7 @@
     },
     {
         "name": "Vaal Arctic Armour",
+        "vaal": true,
         "level": 16,
         "link": "https://poedb.tw/us/Vaal_Arctic_Armour",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalIceShield.webp",
@@ -3260,6 +3500,7 @@
     },
     {
         "name": "Alchemist's Mark",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Alchemists_Mark",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbGNoZW1pc3RzTWFya1NraWxsR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2edd055957/AlchemistsMarkSkillGem.png",
@@ -3276,6 +3517,7 @@
     },
     {
         "name": "Purity of Ice",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Purity_of_Ice",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db2xkUmVzaXN0QXVyYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0ebc7da568/ColdResistAura.png",
@@ -3289,6 +3531,7 @@
     },
     {
         "name": "Grace",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Grace",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9HcmFjZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e98082048a/Grace.png",
@@ -3301,6 +3544,7 @@
     },
     {
         "name": "Haste",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Haste",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IYXN0ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/151b5aa85b/Haste.png",
@@ -3313,6 +3557,7 @@
     },
     {
         "name": "Hatred",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Hatred",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IYXRyZWQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/432bfae70e/Hatred.png",
@@ -3326,6 +3571,7 @@
     },
     {
         "name": "Plague Bearer",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Plague_Bearer",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QbGFndWVCZWFyZXJHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9b3e8e4025/PlagueBearerGem.png",
@@ -3338,6 +3584,7 @@
     },
     {
         "name": "Temporal Chains",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Temporal_Chains",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9UZW1wb3JhbENoYWlucyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9746170624/TemporalChains.png",
@@ -3352,6 +3599,7 @@
     },
     {
         "name": "Vaal Impurity of Ice",
+        "vaal": true,
         "level": 24,
         "link": "https://poedb.tw/us/Vaal_Impurity_of_Ice",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQ29sZFJlc2lzdEF1cmEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/084da0d165/VaalColdResistAura.png",
@@ -3367,6 +3615,7 @@
     },
     {
         "name": "Vaal Grace",
+        "vaal": true,
         "level": 24,
         "link": "https://poedb.tw/us/Vaal_Grace",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsR3JhY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/157dd773d3/VaalGrace.png",
@@ -3381,6 +3630,7 @@
     },
     {
         "name": "Vaal Haste",
+        "vaal": true,
         "level": 24,
         "link": "https://poedb.tw/us/Vaal_Haste",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsSGFzdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d7652c0ccc/VaalHaste.png",
@@ -3395,6 +3645,7 @@
     },
     {
         "name": "Artillery Ballista",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Artillery_Ballista",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Nb3J0YXJUb3RlbUJvd1NraWxsR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5636ae404e/MortarTotemBowSkillGem.png",
@@ -3410,6 +3661,7 @@
     },
     {
         "name": "Bladefall",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Bladefall",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SYWluT2ZCbGFkZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0c68403963/RainOfBlades.png",
@@ -3423,6 +3675,7 @@
     },
     {
         "name": "Bladefall of Volleys",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Bladefall_of_Volleys",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Bladefall%20of%20Volleys%20inventory%20icon.webp",
@@ -3436,6 +3689,7 @@
     },
     {
         "name": "Bladefall of Impaling",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Bladefall_of_Impaling",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Bladefall%20of%20Impaling%20inventory%20icon.webp",
@@ -3449,6 +3703,7 @@
     },
     {
         "name": "Blast Rain",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Blast_Rain",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGFzdFJhaW5HZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1bc0aca8d7/BlastRainGem.png",
@@ -3463,6 +3718,7 @@
     },
     {
         "name": "Blade Flurry",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Blade_Flurry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DaGFyZ2VkQXR0YWNrIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b55acf2e90/ChargedAttack.png",
@@ -3477,6 +3733,7 @@
     },
     {
         "name": "Blade Flurry of Incision",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Blade_Flurry_of_Incision",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blade%20Flurry%20of%20Incision%20inventory%20icon.webp",
@@ -3492,6 +3749,7 @@
     },
     {
         "name": "Charged Dash",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Charged_Dash",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DaGFyZ2VkRGFzaEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2e78031cd6/ChargedDashGem.png",
@@ -3507,6 +3765,7 @@
     },
     {
         "name": "Cremation",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Cremation",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db3Jwc2VFcnVwdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/83bc1fdffa/CorpseEruption.png",
@@ -3522,6 +3781,7 @@
     },
     {
         "name": "Cremation of Exhuming",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Cremation_of_Exhuming",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Cremation%20of%20Exhuming%20inventory%20icon.webp",
@@ -3537,6 +3797,7 @@
     },
     {
         "name": "Cremation of the Volcano",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Cremation_of_the_Volcano",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Cremation%20of%20the%20Volcano%20inventory%20icon.webp",
@@ -3552,6 +3813,7 @@
     },
     {
         "name": "Cyclone",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Cyclone",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DeWNsb25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f97bf2f477/Cyclone.png",
@@ -3567,6 +3829,7 @@
     },
     {
         "name": "Cyclone of Tumult",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Cyclone_of_Tumult",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Cyclone%20of%20Tumult%20inventory%20icon.webp",
@@ -3582,6 +3845,7 @@
     },
     {
         "name": "Explosive Arrow",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Explosive_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FeHBsb3NpdmVBcnJvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a9cd35adfb/ExplosiveArrow.png",
@@ -3597,6 +3861,7 @@
     },
     {
         "name": "Explosive Concoction",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Explosive_Concoction",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FeHBsb3NpdmVGbGFza1NraWxsR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9114018038/ExplosiveFlaskSkillGem.png",
@@ -3612,6 +3877,7 @@
     },
     {
         "name": "Explosive Concoction of Destruction",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Explosive_Concoction_of_Destruction",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Explosive%20Concoction%20of%20Destruction%20inventory%20icon.webp",
@@ -3628,6 +3894,7 @@
     },
     {
         "name": "Flamethrower Trap",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Flamethrower_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtZXRocm93ZXJUcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/11e6f1dd04/FlamethrowerTrap.png",
@@ -3642,6 +3909,7 @@
     },
     {
         "name": "Ice Trap",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Ice_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VUcmFwUnVuZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5211666f1b/IceTrapRune.png",
@@ -3655,6 +3923,7 @@
     },
     {
         "name": "Ice Trap of Hollowness",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Ice_Trap_of_Hollowness",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ice%20Trap%20of%20Hollowness%20inventory%20icon.webp",
@@ -3668,6 +3937,7 @@
     },
     {
         "name": "Lancing Steel",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Lancing_Steel",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MYW5jaW5nU3RlZWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8ed78ceb39/LancingSteel.png",
@@ -3680,6 +3950,7 @@
     },
     {
         "name": "Lancing Steel of Spraying",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Lancing_Steel_of_Spraying",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lancing%20Steel%20of%20Spraying%20inventory%20icon.webp",
@@ -3692,6 +3963,7 @@
     },
     {
         "name": "Pestilent Strike",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Pestilent_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9NYW1iYVN0cmlrZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/456033ff00/MambaStrike.png",
@@ -3707,6 +3979,7 @@
     },
     {
         "name": "Seismic Trap",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Seismic_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdWJ0ZXJyYW5lYW5UcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/592e94541c/SubterraneanTrap.png",
@@ -3721,6 +3994,7 @@
     },
     {
         "name": "Seismic Trap of Swells",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Seismic_Trap_of_Swells",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Seismic%20Trap%20of%20Swells%20inventory%20icon.webp",
@@ -3734,6 +4008,7 @@
     },
     {
         "name": "Scourge Arrow",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Scourge_Arrow",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WaXJ1bGVudEFycm93IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e633045dfb/VirulentArrow.png",
@@ -3748,6 +4023,7 @@
     },
     {
         "name": "Scourge Arrow of Menace",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Scourge_Arrow_of_Menace",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Scourge%20Arrow%20of%20Menace%20inventory%20icon.webp",
@@ -3761,6 +4037,7 @@
     },
     {
         "name": "Storm Rain",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Storm_Rain",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QcmlzbWF0aWNSYWluIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/576ba4b47b/PrismaticRain.png",
@@ -3775,6 +4052,7 @@
     },
     {
         "name": "Storm Rain of the Conduit",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Storm_Rain_of_the_Conduit",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Storm%20Rain%20of%20the%20Conduit%20inventory%20icon.webp",
@@ -3789,6 +4067,7 @@
     },
     {
         "name": "Storm Rain of the Fence",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Storm_Rain_of_the_Fence",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Storm%20Rain%20of%20the%20Fence%20inventory%20icon.webp",
@@ -3803,6 +4082,7 @@
     },
     {
         "name": "Spectral Shield Throw",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Spectral_Shield_Throw",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ThrownShield.webp",
@@ -3815,6 +4095,7 @@
     },
     {
         "name": "Spectral Shield Throw of Shattering",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Spectral_Shield_Throw_of_Shattering",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Spectral%20Shield%20Throw%20of%20Shattering%20inventory%20icon.webp",
@@ -3827,6 +4108,7 @@
     },
     {
         "name": "Tornado Shot",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Tornado_Shot",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ub3JuYWRvU2hvdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7299d3edf8/TornadoShot.png",
@@ -3839,6 +4121,7 @@
     },
     {
         "name": "Tornado Shot of Cloudburst",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Tornado_Shot_of_Cloudburst",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Tornado%20Shot%20of%20Cloudburst%20inventory%20icon.webp",
@@ -3851,6 +4134,7 @@
     },
     {
         "name": "Vaal Blade Flurry",
+        "vaal": true,
         "level": 28,
         "link": "https://poedb.tw/us/Vaal_Blade_Flurry",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalBladeFlurry.webp",
@@ -3866,6 +4150,7 @@
     },
     {
         "name": "Vaal Cyclone",
+        "vaal": true,
         "level": 28,
         "link": "https://poedb.tw/us/Vaal_Cyclone",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQ3ljbG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/77057062b9/VaalCyclone.png",
@@ -3883,6 +4168,7 @@
     },
     {
         "name": "Wild Strike",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Wild_Strike",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbGVtZW50YWxTdHJpa2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3d431c517c/ElementalStrike.png",
@@ -3902,6 +4188,7 @@
     },
     {
         "name": "Wild Strike of Extremes",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Wild_Strike_of_Extremes",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Wild%20Strike%20of%20Extremes%20inventory%20icon.webp",
@@ -3921,6 +4208,7 @@
     },
     {
         "name": "Ambush",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Ambush",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbWJ1c2hTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/92a4cb4028/AmbushSkillGem.png",
@@ -3935,6 +4223,7 @@
     },
     {
         "name": "Snipe",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Snipe",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SniperSkillGem.webp",
@@ -3949,6 +4238,7 @@
     },
     {
         "name": "Intuitive Link",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Intuitive_Link",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9UcmlnZ2VyTGlua0dlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/726a29e3ef/TriggerLinkGem.png",
@@ -3962,6 +4252,7 @@
     },
     {
         "name": "Phase Run",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Phase_Run",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QaGFzZVJ1biIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0f3a780d1f/PhaseRun.png",
@@ -3976,6 +4267,7 @@
     },
     {
         "name": "Summon Ice Golem",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Ice_Golem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VFbGVtZW50YWxTdW1tb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1b7a06245a/IceElementalSummon.png",
@@ -3990,6 +4282,7 @@
     },
     {
         "name": "Summon Ice Golem of Hordes",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Ice_Golem_of_Hordes",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Ice%20Golem%20of%20Hordes%20inventory%20icon.webp",
@@ -4003,6 +4296,7 @@
     },
     {
         "name": "Summon Ice Golem of Shattering",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Ice_Golem_of_Shattering",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Ice%20Golem%20of%20Shattering%20inventory%20icon.webp",
@@ -4016,6 +4310,7 @@
     },
     {
         "name": "Temporal Rift",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Temporal_Rift",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DaHJvbm9tYW5jZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9977b27b7c/Chronomancer.png",
@@ -4026,6 +4321,7 @@
     },
     {
         "name": "Tornado",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Tornado",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ub3JuYWRvR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ff8d3b903/TornadoGem.png",
@@ -4040,6 +4336,7 @@
     },
     {
         "name": "Vampiric Link",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Vampiric_Link",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MZWVjaExpbmtHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/cb9c98d9f4/LeechLinkGem.png",
@@ -4052,6 +4349,7 @@
     },
     {
         "name": "Blight",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Blight",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGlnaHRHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/63c4ea3534/BlightGem.png",
@@ -4066,6 +4364,7 @@
     },
     {
         "name": "Blight of Contagion",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Blight_of_Contagion",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blight%20of%20Contagion%20inventory%20icon.webp",
@@ -4080,6 +4379,7 @@
     },
     {
         "name": "Blight of Atrophy",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Blight_of_Atrophy",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Blight%20of%20Atrophy%20inventory%20icon.webp",
@@ -4094,6 +4394,7 @@
     },
     {
         "name": "Fireball",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Fireball",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlYmFsbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8f374db219/Fireball.png",
@@ -4107,6 +4408,7 @@
     },
     {
         "name": "Freezing Pulse",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Freezing_Pulse",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GcmVlemluZ1B1bHNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d62582b397/FreezingPulse.png",
@@ -4119,6 +4421,7 @@
     },
     {
         "name": "Frostbolt",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Frostbolt",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdEJvbHQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/33202c1f22/FrostBolt.png",
@@ -4131,6 +4434,7 @@
     },
     {
         "name": "Kinetic Bolt",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Kinetic_Bolt",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9aaWdaYWdXYW5kU2tpbGwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/461e91bc97/ZigZagWandSkill.png",
@@ -4142,6 +4446,7 @@
     },
     {
         "name": "Kinetic Bolt of Fragmentation",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Kinetic_Bolt_of_Fragmentation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Kinetic%20Bolt%20of%20Fragmentation%20inventory%20icon.webp",
@@ -4153,6 +4458,7 @@
     },
     {
         "name": "Lightning Tendrils",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Lightning_Tendrils",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodGVuaW5nVG91Y2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/418fa752e4/LighteningTouch.png",
@@ -4167,6 +4473,7 @@
     },
     {
         "name": "Lightning Tendrils of Eccentricity",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Lightning_Tendrils_of_Eccentricity",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lightning%20Tendrils%20of%20Eccentricity%20inventory%20icon.webp",
@@ -4181,6 +4488,7 @@
     },
     {
         "name": "Lightning Tendrils of Escalation",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Lightning_Tendrils_of_Escalation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lightning%20Tendrils%20of%20Escalation%20inventory%20icon.webp",
@@ -4194,6 +4502,7 @@
     },
     {
         "name": "Rolling Magma",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Rolling_Magma",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlTW9ydGFyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9339ca9a6b/FireMortar.png",
@@ -4208,6 +4517,7 @@
     },
     {
         "name": "Raise Zombie",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Raise_Zombie",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SYWlzZVpvbWJpZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/91518203be/RaiseZombie.png",
@@ -4219,6 +4529,7 @@
     },
     {
         "name": "Raise Zombie of Slamming",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Raise_Zombie_of_Slamming",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Raise%20Zombie%20of%20Slamming%20inventory%20icon.webp",
@@ -4230,6 +4541,7 @@
     },
     {
         "name": "Raise Zombie of Falling",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Raise_Zombie_of_Falling",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Raise%20Zombie%20of%20Falling%20inventory%20icon.webp",
@@ -4241,6 +4553,7 @@
     },
     {
         "name": "Purifying Flame",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Purifying_Flame",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QdXJpZnlpbmdGbGFtZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3f5689d6e1/PurifyingFlame.png",
@@ -4255,6 +4568,7 @@
     },
     {
         "name": "Purifying Flame of Revelations",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Purifying_Flame_of_Revelations",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Purifying%20Flame%20of%20Revelations%20inventory%20icon.webp",
@@ -4269,6 +4583,7 @@
     },
     {
         "name": "Spark",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Spark",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGFyayIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/60a5c0ff13/Spark.png",
@@ -4282,6 +4597,7 @@
     },
     {
         "name": "Spark of the Nova",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Spark_of_the_Nova",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Spark%20of%20the%20Nova%20inventory%20icon.webp",
@@ -4295,6 +4611,7 @@
     },
     {
         "name": "Spark of Unpredictability",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Spark_of_Unpredictability",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Spark%20of%20Unpredictability%20inventory%20icon.webp",
@@ -4308,6 +4625,7 @@
     },
     {
         "name": "Stormblast Mine",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Stormblast_Mine",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdFeHBsb3Npb25NaW5lU2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4722363740/LightningExplosionMineSkillGem.png",
@@ -4323,6 +4641,7 @@
     },
     {
         "name": "Vaal Blight",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Blight",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQmxpZ2h0R2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/50f8832b41/VaalBlightGem.png",
@@ -4339,6 +4658,7 @@
     },
     {
         "name": "Vaal Fireball",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Fireball",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsRmlyZWJhbGwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a717984e29/VaalFireball.png",
@@ -4353,6 +4673,7 @@
     },
     {
         "name": "Vaal Spark",
+        "vaal": true,
         "level": 1,
         "link": "https://poedb.tw/us/Vaal_Spark",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsU3BhcmsiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4a4846ade5/VaalSpark.png",
@@ -4367,6 +4688,7 @@
     },
     {
         "name": "Contagion",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Contagion",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db250YWdpb25HZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a93197f89a/ContagionGem.png",
@@ -4380,6 +4702,7 @@
     },
     {
         "name": "Contagion of Subsiding",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Contagion_of_Subsiding",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Contagion%20of%20Subsiding%20inventory%20icon.webp",
@@ -4393,6 +4716,7 @@
     },
     {
         "name": "Contagion of Transference",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Contagion_of_Transference",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Contagion%20of%20Transference%20inventory%20icon.webp",
@@ -4406,6 +4730,7 @@
     },
     {
         "name": "Conversion Trap",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Conversion_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db252ZXJzaW9uVHJhcCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/15f3ca7d18/ConversionTrap.png",
@@ -4418,6 +4743,7 @@
     },
     {
         "name": "Flame Wall",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Flame_Wall",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJld2FsbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/d3c69ec0a3/Firewall.png",
@@ -4431,6 +4757,7 @@
     },
     {
         "name": "Frost Bomb",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Frost_Bomb",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdEJvbWIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c8aeb75684/FrostBomb.png",
@@ -4445,6 +4772,7 @@
     },
     {
         "name": "Frost Bomb of Instability",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Frost_Bomb_of_Instability",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Frost%20Bomb%20of%20Instability%20inventory%20icon.webp",
@@ -4458,6 +4786,7 @@
     },
     {
         "name": "Frost Bomb of Forthcoming",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Frost_Bomb_of_Forthcoming",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Frost%20Bomb%20of%20Forthcoming%20inventory%20icon.webp",
@@ -4471,6 +4800,7 @@
     },
     {
         "name": "Frost Wall",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Frost_Wall",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdFdhbGwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6b6d630e19/FrostWall.png",
@@ -4483,6 +4813,7 @@
     },
     {
         "name": "Frostblink",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Frostblink",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdGJsaW5rU2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5d0c50f5e4/FrostblinkSkillGem.png",
@@ -4499,6 +4830,7 @@
     },
     {
         "name": "Frostblink of Wintry Blast",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Frostblink_of_Wintry_Blast",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Frostblink%20of%20Wintry%20Blast%20inventory%20icon.webp",
@@ -4513,6 +4845,7 @@
     },
     {
         "name": "Orb of Storms",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Orb_of_Storms",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdG9ybUNsb3VkR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5b77e4b3b2/StormCloudGem.png",
@@ -4527,6 +4860,7 @@
     },
     {
         "name": "Summon Raging Spirit",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Summon_Raging_Spirit",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdW1tb25FbGVtZW50YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/65322c4405/SummonElemental.png",
@@ -4540,6 +4874,7 @@
     },
     {
         "name": "Summon Raging Spirit of Enormity",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Summon_Raging_Spirit_of_Enormity",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Raging%20Spirit%20of%20Enormity%20inventory%20icon.webp",
@@ -4553,6 +4888,7 @@
     },
     {
         "name": "Summon Holy Relic",
+        "vaal": false,
         "level": 4,
         "link": "https://poedb.tw/us/Summon_Holy_Relic",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ib2x5UmVsaWMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b624fd0cda/HolyRelic.png",
@@ -4564,6 +4900,7 @@
     },
     {
         "name": "Clarity",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Clarity",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DbGFyaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/30046e480b/Clarity.png",
@@ -4576,6 +4913,7 @@
     },
     {
         "name": "Bodyswap",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Bodyswap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db3Jwc2VXYXJwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/93895fd56c/CorpseWarp.png",
@@ -4590,6 +4928,7 @@
     },
     {
         "name": "Bodyswap of Sacrifice",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Bodyswap_of_Sacrifice",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Bodyswap%20of%20Sacrifice%20inventory%20icon.webp",
@@ -4605,6 +4944,7 @@
     },
     {
         "name": "Flame Dash",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Flame_Dash",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtZURhc2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6816a20975/FlameDash.png",
@@ -4620,6 +4960,7 @@
     },
     {
         "name": "Flame Dash of Return",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Flame_Dash_of_Return",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Flame%20Dash%20of%20Return%20inventory%20icon.webp",
@@ -4633,6 +4974,7 @@
     },
     {
         "name": "Siphoning Trap",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Siphoning_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VTaXBob24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b04d5c8c56/IceSiphon.png",
@@ -4647,6 +4989,7 @@
     },
     {
         "name": "Lightning Warp",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Lightning_Warp",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdXYXJwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5f79874aa8/LightningWarp.png",
@@ -4662,6 +5005,7 @@
     },
     {
         "name": "Summon Skeletons",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Summon_Skeletons",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdW1tb25Ta2VsZXRvbnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d686d7dd8a/SummonSkeletons.png",
@@ -4674,6 +5018,7 @@
     },
     {
         "name": "Summon Skeletons of Archers",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Summon_Skeletons_of_Archers",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Skeletons%20of%20Archers%20inventory%20icon.webp",
@@ -4686,6 +5031,7 @@
     },
     {
         "name": "Summon Skeletons of Mages",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Summon_Skeletons_of_Mages",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Skeletons%20of%20Mages%20inventory%20icon.webp",
@@ -4699,6 +5045,7 @@
     },
     {
         "name": "Vaal Clarity",
+        "vaal": true,
         "level": 10,
         "link": "https://poedb.tw/us/Vaal_Clarity",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQ2xhcml0eSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bbc140c4df/VaalClarity.png",
@@ -4713,6 +5060,7 @@
     },
     {
         "name": "Vaal Lightning Warp",
+        "vaal": true,
         "level": 10,
         "link": "https://poedb.tw/us/Vaal_Lightning_Warp",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsTGlnaHRuaW5nV2FycCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/55aac09e1c/VaalLightningWarp.png",
@@ -4729,6 +5077,7 @@
     },
     {
         "name": "Vaal Summon Skeletons",
+        "vaal": true,
         "level": 10,
         "link": "https://poedb.tw/us/Vaal_Summon_Skeletons",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsU3VtbW9uU2tlbGV0b25zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1c9ef84327/VaalSummonSkeletons.png",
@@ -4742,6 +5091,7 @@
     },
     {
         "name": "Wither",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Wither",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9XaXRoZXJHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f4a77cf6bc/WitherGem.png",
@@ -4756,6 +5106,7 @@
     },
     {
         "name": "Arc",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Arc",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BcmMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3778fcf505/Arc.png",
@@ -4768,6 +5119,7 @@
     },
     {
         "name": "Arc of Surging",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Arc_of_Surging",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Arc%20of%20Surging%20inventory%20icon.webp",
@@ -4779,6 +5131,7 @@
     },
     {
         "name": "Arc of Oscillating",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Arc_of_Oscillating",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Arc%20of%20Oscillating%20inventory%20icon.webp",
@@ -4791,6 +5144,7 @@
     },
     {
         "name": "Creeping Frost",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Creeping_Frost",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BcmN0aWNCcmVhdGgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0102d0ec76/ArcticBreath.png",
@@ -4805,6 +5159,7 @@
     },
     {
         "name": "Blazing Salvo",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Blazing_Salvo",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbWJlciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dce0125adf/Ember.png",
@@ -4818,6 +5173,7 @@
     },
     {
         "name": "Bone Offering",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Bone_Offering",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Cb25lT2ZmZXJpbmciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9918a40b8a/BoneOffering.png",
@@ -4830,6 +5186,7 @@
     },
     {
         "name": "Essence Drain",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Essence_Drain",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaXBob25HZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/97ff6075bf/SiphonGem.png",
@@ -4844,6 +5201,7 @@
     },
     {
         "name": "Essence Drain of Desperation",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Essence_Drain_of_Desperation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Essence%20Drain%20of%20Desperation%20inventory%20icon.webp",
@@ -4858,6 +5216,7 @@
     },
     {
         "name": "Essence Drain of Wickedness",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Essence_Drain_of_Wickedness",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Essence%20Drain%20of%20Wickedness%20inventory%20icon.webp",
@@ -4872,6 +5231,7 @@
     },
     {
         "name": "Scorching Ray",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Scorching_Ray",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlQmVhbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/daf2631e95/FireBeam.png",
@@ -4885,6 +5245,7 @@
     },
     {
         "name": "Scorching Ray of Immolation",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Scorching_Ray_of_Immolation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Scorching%20Ray%20of%20Immolation%20inventory%20icon.webp",
@@ -4898,6 +5259,7 @@
     },
     {
         "name": "Flame Surge",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Flame_Surge",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtZXdoaXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/005ce2aecc/Flamewhip.png",
@@ -4911,6 +5273,7 @@
     },
     {
         "name": "Flame Surge of Combusting",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Flame_Surge_of_Combusting",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Flame%20Surge%20of%20Combusting%20inventory%20icon.webp",
@@ -4924,6 +5287,7 @@
     },
     {
         "name": "Flesh Offering",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Flesh_Offering",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGVzaE9mZmVyaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d0a2e49abe/FleshOffering.png",
@@ -4936,6 +5300,7 @@
     },
     {
         "name": "Icicle Mine",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Icicle_Mine",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db2xkUHJvamVjdGlsZU1pbmVTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a7c134082a/ColdProjectileMineSkillGem.png",
@@ -4952,6 +5317,7 @@
     },
     {
         "name": "Icicle Mine of Fanning",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Icicle_Mine_of_Fanning",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Icicle%20Mine%20of%20Fanning%20inventory%20icon.webp",
@@ -4968,6 +5334,7 @@
     },
     {
         "name": "Icicle Mine of Sabotage",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Icicle_Mine_of_Sabotage",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Icicle%20Mine%20of%20Sabotage%20inventory%20icon.webp",
@@ -4984,6 +5351,7 @@
     },
     {
         "name": "Ice Nova",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Ice_Nova",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VOb3ZhIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/65f9588dac/IceNova.png",
@@ -4997,6 +5365,7 @@
     },
     {
         "name": "Ice Nova of Frostbolts",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Ice_Nova_of_Frostbolts",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ice%20Nova%20of%20Frostbolts%20inventory%20icon.webp",
@@ -5010,6 +5379,7 @@
     },
     {
         "name": "Ice Nova of Deep Freeze",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Ice_Nova_of_Deep_Freeze",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ice%20Nova%20of%20Deep%20Freeze%20inventory%20icon.webp",
@@ -5023,6 +5393,7 @@
     },
     {
         "name": "Ice Spear",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Ice_Spear",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VTcGVhciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1ba7d15d5d/IceSpear.png",
@@ -5036,6 +5407,7 @@
     },
     {
         "name": "Ice Spear of Splitting",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Ice_Spear_of_Splitting",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ice%20Spear%20of%20Splitting%20inventory%20icon.webp",
@@ -5048,6 +5420,7 @@
     },
     {
         "name": "Incinerate",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Incinerate",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtZXRocm93ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d7c85f1aa4/Flamethrower.png",
@@ -5061,6 +5434,7 @@
     },
     {
         "name": "Lightning Trap",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Lightning_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdUcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/18365fa604/LightningTrap.png",
@@ -5075,6 +5449,7 @@
     },
     {
         "name": "Lightning Trap of Sparking",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Lightning_Trap_of_Sparking",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lightning%20Trap%20of%20Sparking%20inventory%20icon.webp",
@@ -5089,6 +5464,7 @@
     },
     {
         "name": "Manabond",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Manabond",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9NYW5hVm9pZEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ce344fd0e1/ManaVoidGem.png",
@@ -5102,6 +5478,7 @@
     },
     {
         "name": "Power Siphon",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Power_Siphon",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Qb3dlclNpcGhvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8c00738194/PowerSiphon.png",
@@ -5114,6 +5491,7 @@
     },
     {
         "name": "Power Siphon of the Archmage",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Power_Siphon_of_the_Archmage",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Power%20Siphon%20of%20the%20Archmage%20inventory%20icon.webp",
@@ -5126,6 +5504,7 @@
     },
     {
         "name": "Spirit Offering",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Spirit_Offering",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGlyaXRPZmZlcmluZyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3ba85cdc49/SpiritOffering.png",
@@ -5138,6 +5517,7 @@
     },
     {
         "name": "Storm Brand",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Storm_Brand",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db25kdWl0U2lnaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8f4eb9be01/ConduitSigil.png",
@@ -5153,6 +5533,7 @@
     },
     {
         "name": "Storm Brand of Indecision",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Storm_Brand_of_Indecision",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Storm%20Brand%20of%20Indecision%20inventory%20icon.webp",
@@ -5168,6 +5549,7 @@
     },
     {
         "name": "Storm Burst",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Storm_Burst",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdG9ybUJ1cnN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ce2215dff/StormBurst.png",
@@ -5183,6 +5565,7 @@
     },
     {
         "name": "Storm Call",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Storm_Call",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdG9ybWNhbGwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eb3168564d/Stormcall.png",
@@ -5196,6 +5579,7 @@
     },
     {
         "name": "Vaal Arc",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Arc",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQXJjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d3423d831a/VaalArc.png",
@@ -5210,6 +5594,7 @@
     },
     {
         "name": "Vaal Ice Nova",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Ice_Nova",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsSWNlTm92YSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2382c2d861/VaalIceNova.png",
@@ -5224,6 +5609,7 @@
     },
     {
         "name": "Vaal Lightning Trap",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Lightning_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsTGlnaHRuaW5nVHJhcCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/fef5c921b3/VaalLightningTrap.png",
@@ -5240,6 +5626,7 @@
     },
     {
         "name": "Vaal Power Siphon",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Power_Siphon",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsUG93ZXJTaXBob24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3bb288752a/VaalPowerSiphon.png",
@@ -5253,6 +5640,7 @@
     },
     {
         "name": "Vaal Storm Call",
+        "vaal": true,
         "level": 12,
         "link": "https://poedb.tw/us/Vaal_Storm_Call",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsU3Rvcm1jYWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e569d47bc2/VaalStormcall.png",
@@ -5267,6 +5655,7 @@
     },
     {
         "name": "Voltaxic Burst",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Voltaxic_Burst",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Wb2lkYnVyc3RTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ba291fb033/VoidburstSkillGem.png",
@@ -5282,6 +5671,7 @@
     },
     {
         "name": "Wintertide Brand",
+        "vaal": false,
         "level": 12,
         "link": "https://poedb.tw/us/Wintertide_Brand",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9XaW50ZXJ0aWRlQnJhbmRHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/21a236e3c7/WintertideBrandGem.png",
@@ -5296,6 +5686,7 @@
     },
     {
         "name": "Arcane Cloak",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Arcane_Cloak",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BcmNhbmVDbG9hayIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7660cd542e/ArcaneCloak.png",
@@ -5310,6 +5701,7 @@
     },
     {
         "name": "Cold Snap",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Cold_Snap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db2xkU25hcCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/889f6cb1fd/ColdSnap.png",
@@ -5323,6 +5715,7 @@
     },
     {
         "name": "Cold Snap of Power",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Cold_Snap_of_Power",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Cold%20Snap%20of%20Power%20inventory%20icon.webp",
@@ -5336,6 +5729,7 @@
     },
     {
         "name": "Assassin's Mark",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Assassins_Mark",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Bc3Nhc3NpbnNNYXJrIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bddd6aa693/AssassinsMark.png",
@@ -5349,6 +5743,7 @@
     },
     {
         "name": "Forbidden Rite",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Forbidden_Rite",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Tb3VsZmVhc3RHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4fd5ae750/SoulfeastGem.png",
@@ -5362,6 +5757,7 @@
     },
     {
         "name": "Forbidden Rite of Soul Sacrifice",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Forbidden_Rite_of_Soul_Sacrifice",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Forbidden%20Rite%20of%20Soul%20Sacrifice%20inventory%20icon.webp",
@@ -5375,6 +5771,7 @@
     },
     {
         "name": "Galvanic Field",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Galvanic_Field",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9HYWx2YW5pY0ZpZWxkU2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8aa27ccb46/GalvanicFieldSkillGem.png",
@@ -5390,6 +5787,7 @@
     },
     {
         "name": "Galvanic Field of Intensity",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Galvanic_Field_of_Intensity",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Galvanic%20Field%20of%20Intensity%20inventory%20icon.webp",
@@ -5405,6 +5803,7 @@
     },
     {
         "name": "Herald of Thunder",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Herald_of_Thunder",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZXJhbGRvZlRodW5kZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/567f7d8ad4/HeraldofThunder.png",
@@ -5419,6 +5818,7 @@
     },
     {
         "name": "Wave of Conviction",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Wave_of_Conviction",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QdXJnZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/773530e679/Purge.png",
@@ -5434,6 +5834,7 @@
     },
     {
         "name": "Brand Recall",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Brand_Recall",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SZWNhbGxTaWdpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ee8b0c8fd2/RecallSigil.png",
@@ -5445,6 +5846,7 @@
     },
     {
         "name": "Righteous Fire",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Righteous_Fire",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SaWdodGVvdXNGaXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/da7c97a11c/RighteousFire.png",
@@ -5457,6 +5859,7 @@
     },
     {
         "name": "Righteous Fire of Arcane Devotion",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Righteous_Fire_of_Arcane_Devotion",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Righteous%20Fire%20of%20Arcane%20Devotion%20inventory%20icon.webp",
@@ -5469,6 +5872,7 @@
     },
     {
         "name": "Summon Skitterbots",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Summon_Skitterbots",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ta2l0dGVyYm90U2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d6f39b50a5/SkitterbotSkillGem.png",
@@ -5486,6 +5890,7 @@
     },
     {
         "name": "Tempest Shield",
+        "vaal": false,
         "level": 16,
         "link": "https://poedb.tw/us/Tempest_Shield",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9UZW1wZXN0U2hpZWxkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bfe0750738/TempestShield.png",
@@ -5498,6 +5903,7 @@
     },
     {
         "name": "Vaal Cold Snap",
+        "vaal": true,
         "level": 16,
         "link": "https://poedb.tw/us/Vaal_Cold_Snap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQ29sZFNuYXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ad27f55399/VaalColdSnap.png",
@@ -5512,6 +5918,7 @@
     },
     {
         "name": "Vaal Righteous Fire",
+        "vaal": true,
         "level": 16,
         "link": "https://poedb.tw/us/Vaal_Righteous_Fire",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsUmlnaHRlb3VzRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ca4c9277fb/VaalRighteousFire.png",
@@ -5526,6 +5933,7 @@
     },
     {
         "name": "Conductivity",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Conductivity",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db25kdWN0aXZpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1d64a0439e/Conductivity.png",
@@ -5541,6 +5949,7 @@
     },
     {
         "name": "Convocation",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Convocation",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db252b2NhdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/429e3e480f/Convocation.png",
@@ -5553,6 +5962,7 @@
     },
     {
         "name": "Malevolence",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Malevolence",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZWxpcml1bUdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/68eb889340/DeliriumGem.png",
@@ -5565,6 +5975,7 @@
     },
     {
         "name": "Bane",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Bane",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EYXJrUml0dWFsR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c59eb9d27b/DarkRitualGem.png",
@@ -5580,6 +5991,7 @@
     },
     {
         "name": "Bane of Condemnation",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Bane_of_Condemnation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Bane%20of%20Condemnation%20inventory%20icon.webp",
@@ -5595,6 +6007,7 @@
     },
     {
         "name": "Discipline",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Discipline",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EaXNjaXBsaW5lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8fb38b53f4/Discipline.png",
@@ -5607,6 +6020,7 @@
     },
     {
         "name": "Elemental Weakness",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Elemental_Weakness",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbGVtZW50YWxXZWFrbmVzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/b639dd2650/ElementalWeakness.png",
@@ -5621,6 +6035,7 @@
     },
     {
         "name": "Energy Blade",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Energy_Blade",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdG9ybUJsYWRlR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/387697170b/StormBladeGem.png",
@@ -5632,6 +6047,7 @@
     },
     {
         "name": "Enfeeble",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Enfeeble",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbmZlZWJsZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e85edd0ad5/Enfeeble.png",
@@ -5646,6 +6062,7 @@
     },
     {
         "name": "Flammability",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Flammability",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtbWFiaWxpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ba43e87752/Flammability.png",
@@ -5661,6 +6078,7 @@
     },
     {
         "name": "Frostbite",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Frostbite",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdEJpdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b858d8016a/FrostBite.png",
@@ -5676,6 +6094,7 @@
     },
     {
         "name": "Purity of Lightning",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Purity_of_Lightning",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdSZXNpc3RBdXJhIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4c883997e3/LightningResistAura.png",
@@ -5689,6 +6108,7 @@
     },
     {
         "name": "Purity of Elements",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Purity_of_Elements",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QdXJpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/44bd765302/Purity.png",
@@ -5701,6 +6121,7 @@
     },
     {
         "name": "Zealotry",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Zealotry",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGVsbERhbWFnZUdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f36b77014f/SpellDamageGem.png",
@@ -5714,6 +6135,7 @@
     },
     {
         "name": "Spellslinger",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Spellslinger",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGVsbHNsaW5nZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2417fd6a3c/Spellslinger.png",
@@ -5725,6 +6147,7 @@
     },
     {
         "name": "Vaal Discipline",
+        "vaal": true,
         "level": 24,
         "link": "https://poedb.tw/us/Vaal_Discipline",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsRGlzY2lwbGluZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8a8a3a54cb/VaalDiscipline.png",
@@ -5739,6 +6162,7 @@
     },
     {
         "name": "Vaal Impurity of Lightning",
+        "vaal": true,
         "level": 24,
         "link": "https://poedb.tw/us/Vaal_Impurity_of_Lightning",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsTGlnaHRuaW5nUmVzaXN0QXVyYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bc24a32622/VaalLightningResistAura.png",
@@ -5754,6 +6178,7 @@
     },
     {
         "name": "Despair",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Despair",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXNwYWlyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b4dbf071cd/Despair.png",
@@ -5769,6 +6194,7 @@
     },
     {
         "name": "Wrath",
+        "vaal": false,
         "level": 24,
         "link": "https://poedb.tw/us/Wrath",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9XcmF0aCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6646c27a1b/Wrath.png",
@@ -5782,6 +6208,7 @@
     },
     {
         "name": "Armageddon Brand",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Armageddon_Brand",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Bcm1hZ2VkZG9uQnJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/743223e101/ArmageddonBrand.png",
@@ -5796,6 +6223,7 @@
     },
     {
         "name": "Armageddon Brand of Volatility",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Armageddon_Brand_of_Volatility",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Armageddon%20Brand%20of%20Volatility%20inventory%20icon.webp",
@@ -5810,6 +6238,7 @@
     },
     {
         "name": "Armageddon Brand of Recall",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Armageddon_Brand_of_Recall",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Armageddon%20Brand%20of%20Recall%20inventory%20icon.webp",
@@ -5824,6 +6253,7 @@
     },
     {
         "name": "Ball Lightning",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Ball_Lightning",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CYWxsTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6c73d5c555/BallLightning.png",
@@ -5837,6 +6267,7 @@
     },
     {
         "name": "Ball Lightning of Orbiting",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Ball_Lightning_of_Orbiting",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ball%20Lightning%20of%20Orbiting%20inventory%20icon.webp",
@@ -5850,6 +6281,7 @@
     },
     {
         "name": "Ball Lightning of Static",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Ball_Lightning_of_Static",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Ball%20Lightning%20of%20Static%20inventory%20icon.webp",
@@ -5863,6 +6295,7 @@
     },
     {
         "name": "Crackling Lance",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Crackling_Lance",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EaXNlbnRlZ3JhdGVHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/89788eeb5b/DisentegrateGem.png",
@@ -5875,6 +6308,7 @@
     },
     {
         "name": "Crackling Lance of Branching",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Crackling_Lance_of_Branching",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Crackling%20Lance%20of%20Branching%20inventory%20icon.webp",
@@ -5887,6 +6321,7 @@
     },
     {
         "name": "Crackling Lance of Disintegration",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Crackling_Lance_of_Disintegration",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Crackling%20Lance%20of%20Disintegration%20inventory%20icon.webp",
@@ -5899,6 +6334,7 @@
     },
     {
         "name": "Dark Pact",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Dark_Pact",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ta2VsZXRhbENoYWlucyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5976d42537/SkeletalChains.png",
@@ -5914,6 +6350,7 @@
     },
     {
         "name": "Discharge",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Discharge",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EaXNjaGFyZ2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/cedc22eeb5/Discharge.png",
@@ -5929,6 +6366,7 @@
     },
     {
         "name": "Discharge of Misery",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Discharge_of_Misery",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Discharge%20of%20Misery%20inventory%20icon.webp",
@@ -5944,6 +6382,7 @@
     },
     {
         "name": "Divine Ire",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Divine_Ire",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EaXZpbmVUZW1wZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4b8cb33523/DivineTempest.png",
@@ -5958,6 +6397,7 @@
     },
     {
         "name": "Divine Ire of Holy Lightning",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Divine_Ire_of_Holy_Lightning",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Divine%20Ire%20of%20Holy%20Lightning%20inventory%20icon.webp",
@@ -5972,6 +6412,7 @@
     },
     {
         "name": "Divine Ire of Disintegration",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Divine_Ire_of_Disintegration",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Divine%20Ire%20of%20Disintegration%20inventory%20icon.webp",
@@ -5986,6 +6427,7 @@
     },
     {
         "name": "Eye of Winter",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Eye_of_Winter",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm96ZW5TcGhlcmVTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/b51924877e/FrozenSphereSkillGem.png",
@@ -5998,6 +6440,7 @@
     },
     {
         "name": "Eye of Winter of Finality",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Eye_of_Winter_of_Finality",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Eye%20of%20Winter%20of%20Finality%20inventory%20icon.webp",
@@ -6010,6 +6453,7 @@
     },
     {
         "name": "Eye of Winter of Transience",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Eye_of_Winter_of_Transience",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Eye%20of%20Winter%20of%20Transience%20inventory%20icon.webp",
@@ -6022,6 +6466,7 @@
     },
     {
         "name": "Pyroclast Mine",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Pyroclast_Mine",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlTW9ydGFyQmFycmFnZU1pbmVTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0dbce41c29/FireMortarBarrageMineSkillGem.png",
@@ -6038,6 +6483,7 @@
     },
     {
         "name": "Pyroclast Mine of Sabotage",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Pyroclast_Mine_of_Sabotage",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Pyroclast%20Mine%20of%20Sabotage%20inventory%20icon.webp",
@@ -6054,6 +6500,7 @@
     },
     {
         "name": "Firestorm",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Firestorm",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlc3Rvcm0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/86d85233c1/Firestorm.png",
@@ -6067,6 +6514,7 @@
     },
     {
         "name": "Firestorm of Meteors",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Firestorm_of_Meteors",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Firestorm%20of%20Meteors%20inventory%20icon.webp",
@@ -6079,6 +6527,7 @@
     },
     {
         "name": "Firestorm of Pelting",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Firestorm_of_Pelting",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Firestorm%20of%20Pelting%20inventory%20icon.webp",
@@ -6092,6 +6541,7 @@
     },
     {
         "name": "Flameblast",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Flameblast",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DaGFyZ2VkQmxhc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/90adc64f44/ChargedBlast.png",
@@ -6105,6 +6555,7 @@
     },
     {
         "name": "Flameblast of Celerity",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Flameblast_of_Celerity",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Flameblast%20of%20Celerity%20inventory%20icon.webp",
@@ -6118,6 +6569,7 @@
     },
     {
         "name": "Flameblast of Contraction",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Flameblast_of_Contraction",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Flameblast%20of%20Contraction%20inventory%20icon.webp",
@@ -6131,6 +6583,7 @@
     },
     {
         "name": "Vortex",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Vortex",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdFZvcnRleCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/13869ff5ca/FrostVortex.png",
@@ -6145,6 +6598,7 @@
     },
     {
         "name": "Vortex of Projection",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Vortex_of_Projection",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Vortex%20of%20Projection%20inventory%20icon.webp",
@@ -6159,6 +6613,7 @@
     },
     {
         "name": "Glacial Cascade",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Glacial_Cascade",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9VcGhlYXZhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e29730bc66/Upheaval.png",
@@ -6172,6 +6627,7 @@
     },
     {
         "name": "Glacial Cascade of the Fissure",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Glacial_Cascade_of_the_Fissure",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Glacial%20Cascade%20of%20the%20Fissure%20inventory%20icon.webp",
@@ -6185,6 +6641,7 @@
     },
     {
         "name": "Hexblast",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Hexblast",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Eb29tQmxhc3RTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1866f44c9d/DoomBlastSkillGem.png",
@@ -6198,6 +6655,7 @@
     },
     {
         "name": "Hexblast of Contradiction",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Hexblast_of_Contradiction",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Hexblast%20of%20Contradiction%20inventory%20icon.webp",
@@ -6211,6 +6669,7 @@
     },
     {
         "name": "Hexblast of Havoc",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Hexblast_of_Havoc",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Hexblast%20of%20Havoc%20inventory%20icon.webp",
@@ -6224,6 +6683,7 @@
     },
     {
         "name": "Kinetic Blast",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Kinetic_Blast",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DbHVzdGVyQnVyc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1b7aff0832/ClusterBurst.png",
@@ -6236,6 +6696,7 @@
     },
     {
         "name": "Lightning Conduit",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Lightning_Conduit",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbmVyZ3lSZWxlYXNlU2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5a89cebfb0/EnergyReleaseSkillGem.png",
@@ -6248,6 +6709,7 @@
     },
     {
         "name": "Lightning Conduit of the Heavens",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Lightning_Conduit_of_the_Heavens",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lightning%20Conduit%20of%20the%20Heavens%20inventory%20icon.webp",
@@ -6260,6 +6722,7 @@
     },
     {
         "name": "Lightning Spire Trap",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Lightning_Spire_Trap",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdTcGlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/701078aee5/LightningSpire.png",
@@ -6275,6 +6738,7 @@
     },
     {
         "name": "Lightning Spire Trap of Zapping",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Lightning_Spire_Trap_of_Zapping",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lightning%20Spire%20Trap%20of%20Zapping%20inventory%20icon.webp",
@@ -6289,6 +6753,7 @@
     },
     {
         "name": "Lightning Spire Trap of Overloading",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Lightning_Spire_Trap_of_Overloading",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Lightning%20Spire%20Trap%20of%20Overloading%20inventory%20icon.webp",
@@ -6303,6 +6768,7 @@
     },
     {
         "name": "Penance Brand",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Penance_Brand",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QZW5hbmNlQnJhbmRHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/72054bdbca/PenanceBrandGem.png",
@@ -6318,6 +6784,7 @@
     },
     {
         "name": "Penance Brand of Dissipation",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Penance_Brand_of_Dissipation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Penance%20Brand%20of%20Dissipation%20inventory%20icon.webp",
@@ -6333,6 +6800,7 @@
     },
     {
         "name": "Penance Brand of Conduction",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Penance_Brand_of_Conduction",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Penance%20Brand%20of%20Conduction%20inventory%20icon.webp",
@@ -6348,6 +6816,7 @@
     },
     {
         "name": "Raise Spectre",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Raise_Spectre",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SYWlzZVNwZWN0cmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8b97da3ff6/RaiseSpectre.png",
@@ -6359,6 +6828,7 @@
     },
     {
         "name": "Raise Spectre of Transience",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Raise_Spectre_of_Transience",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Raise%20Spectre%20of%20Transience%20inventory%20icon.webp",
@@ -6371,6 +6841,7 @@
     },
     {
         "name": "Shock Nova",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Shock_Nova",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaG9ja05vdmEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/671a5ad79a/ShockNova.png",
@@ -6384,6 +6855,7 @@
     },
     {
         "name": "Soulrend",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Soulrend",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Tb3VscmVuZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ff1bb335b0/Soulrend.png",
@@ -6398,6 +6870,7 @@
     },
     {
         "name": "Soulrend of Reaping",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Soulrend_of_Reaping",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Soulrend%20of%20Reaping%20inventory%20icon.webp",
@@ -6410,6 +6883,7 @@
     },
     {
         "name": "Soulrend of the Spiral",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Soulrend_of_the_Spiral",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Soulrend%20of%20the%20Spiral%20inventory%20icon.webp",
@@ -6424,6 +6898,7 @@
     },
     {
         "name": "Stormbind",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Stormbind",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdG9ybWJpbmRTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/30ae7dcd24/StormbindSkillGem.png",
@@ -6439,6 +6914,7 @@
     },
     {
         "name": "Stormbind of Teleportation",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Stormbind_of_Teleportation",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Stormbind%20of%20Teleportation%20inventory%20icon.webp",
@@ -6457,6 +6933,7 @@
     },
     {
         "name": "Summon Reaper",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Summon_Reaper",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdW1tb25SZWFwZXJTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/24f147e638/SummonReaperSkillGem.png",
@@ -6469,6 +6946,7 @@
     },
     {
         "name": "Summon Reaper of Revenants",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Summon_Reaper_of_Revenants",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Reaper%20of%20Revenants%20inventory%20icon.webp",
@@ -6480,6 +6958,7 @@
     },
     {
         "name": "Summon Reaper of Eviscerating",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Summon_Reaper_of_Eviscerating",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Reaper%20of%20Eviscerating%20inventory%20icon.webp",
@@ -6492,6 +6971,7 @@
     },
     {
         "name": "Vaal Firestorm",
+        "vaal": true,
         "level": 28,
         "link": "https://poedb.tw/us/Vaal_Firestorm",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalFirestorm.webp",
@@ -6506,6 +6986,7 @@
     },
     {
         "name": "Vaal Flameblast",
+        "vaal": true,
         "level": 28,
         "link": "https://poedb.tw/us/Vaal_Flameblast",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQ2hhcmdlZEJsYXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b920de8b88/VaalChargedBlast.png",
@@ -6520,6 +7001,7 @@
     },
     {
         "name": "Winter Orb",
+        "vaal": false,
         "level": 28,
         "link": "https://poedb.tw/us/Winter_Orb",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdEZ1cnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/89ef86a052/FrostFury.png",
@@ -6536,6 +7018,7 @@
     },
     {
         "name": "Destructive Link",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Destructive_Link",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Dcml0aWNhbExpbmtHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/78c8139685/CriticalLinkGem.png",
@@ -6549,6 +7032,7 @@
     },
     {
         "name": "Frost Shield",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Frost_Shield",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdEdsb2JlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e7020ad872/FrostGlobe.png",
@@ -6563,6 +7047,7 @@
     },
     {
         "name": "Hydrosphere",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Hydrosphere",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IeWRyb3NwaGVyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8602dc0a80/Hydrosphere.png",
@@ -6579,6 +7064,7 @@
     },
     {
         "name": "Sigil of Power",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Sigil_of_Power",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DaXJjbGVvZlBvd2VyU2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b47a71c6bf/CircleofPowerSkillGem.png",
@@ -6593,6 +7079,7 @@
     },
     {
         "name": "Soul Link",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Soul_Link",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Tb3VsTGlua0dlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/77a2f86ddb/SoulLinkGem.png",
@@ -6605,6 +7092,7 @@
     },
     {
         "name": "Summon Carrion Golem",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Carrion_Golem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdW1tb25DYXJyaW9uR29sZW1HZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/01dce8b537/SummonCarrionGolemGem.png",
@@ -6618,6 +7106,7 @@
     },
     {
         "name": "Summon Carrion Golem of Hordes",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Carrion_Golem_of_Hordes",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Carrion%20Golem%20of%20Hordes%20inventory%20icon.webp",
@@ -6631,6 +7120,7 @@
     },
     {
         "name": "Summon Carrion Golem of Scavenging",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Carrion_Golem_of_Scavenging",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Carrion%20Golem%20of%20Scavenging%20inventory%20icon.webp",
@@ -6644,6 +7134,7 @@
     },
     {
         "name": "Summon Chaos Golem",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Chaos_Golem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DaGFvc0VsZW1lbnRhbFN1bW1vbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e735374a53/ChaosElementalSummon.png",
@@ -6657,6 +7148,7 @@
     },
     {
         "name": "Summon Chaos Golem of Hordes",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Chaos_Golem_of_Hordes",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Chaos%20Golem%20of%20Hordes%20inventory%20icon.webp",
@@ -6670,6 +7162,7 @@
     },
     {
         "name": "Summon Chaos Golem of the Maelström",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Chaos_Golem_of_the_Maelstr%C3%B6m",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DaGFvc0VsZW1lbnRhbFN1bW1vbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e735374a53/ChaosElementalSummon.png",
@@ -6683,6 +7176,7 @@
     },
     {
         "name": "Summon Lightning Golem",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Lightning_Golem",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdHb2xlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5dbb993d49/LightningGolem.png",
@@ -6696,6 +7190,7 @@
     },
     {
         "name": "Summon Lightning Golem of Hordes",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Summon_Lightning_Golem_of_Hordes",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Summon%20Lightning%20Golem%20of%20Hordes%20inventory%20icon.webp",
@@ -6709,6 +7204,7 @@
     },
     {
         "name": "Void Sphere",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Void_Sphere",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGFja0hvbGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5a522c3871/BlackHole.png",
@@ -6724,6 +7220,7 @@
     },
     {
         "name": "Void Sphere of Rending",
+        "vaal": false,
         "level": 34,
         "link": "https://poedb.tw/us/Void_Sphere_of_Rending",
         "image_url": "https://cdn.poedb.tw/image/gem_icons/Void%20Sphere%20of%20Rending%20inventory%20icon.webp",
@@ -6739,6 +7236,7 @@
     },
     {
         "name": "Arcanist Brand",
+        "vaal": false,
         "level": 38,
         "link": "https://poedb.tw/us/Arcanist_Brand",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BcmNhbmlzdEJyYW5kR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/13599bc515/ArcanistBrandGem.png",
@@ -6752,6 +7250,7 @@
     },
     {
         "name": "Quickstep",
+        "vaal": false,
         "level": 1,
         "link": "https://poedb.tw/us/Quickstep",
         "image_url": "https://cdn.poedb.tw/image/Art/2DItems/Gems/QuickStepGem.webp",
@@ -6765,6 +7264,7 @@
     },
     {
         "name": "Detonate Mines",
+        "vaal": false,
         "level": 8,
         "link": "https://poedb.tw/us/Detonate_Mines",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXRvbmF0ZU1pbmVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/01399d507f/DetonateMines.png",
@@ -6776,6 +7276,7 @@
     },
     {
         "name": "Portal",
+        "vaal": false,
         "level": 10,
         "link": "https://poedb.tw/us/Portal",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Qb3J0YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/179ddc4cbd/Portal.png",
@@ -6786,6 +7287,7 @@
     },
     {
         "name": "Vaal Breach",
+        "vaal": true,
         "level": 10,
         "link": "https://poedb.tw/us/Vaal_Breach",
         "image_url": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQnJlYWNoUG9ydGFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/99b58a9a68/VaalBreachPortal.png",

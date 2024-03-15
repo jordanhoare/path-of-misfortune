@@ -10,6 +10,7 @@ class SkillGem:
     image_url: str | None = None
     tags: list[str] = field(default_factory=list)
     alternative_quality: bool = False
+    vaal: bool = False
 
     @classmethod
     def from_json(

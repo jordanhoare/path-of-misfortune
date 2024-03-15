@@ -29,17 +29,20 @@ def extract_gem_info(row: Tag) -> dict[str, Any] | None:
         return None
 
     data_hover_value = data_hover_tag.get("data-hover", "")
-    alternate_quality = data_hover_value[-4:] in ["AltX", "AltY", "AltZ"]  # type: ignore[index, operator]
+    alternate_quality: bool = data_hover_value[-4:] in ["AltX", "AltY", "AltZ"]  # type: ignore[index, operator]
 
     gem_tags = row.find("div", class_="gem_tags small")
     if not gem_tags or not isinstance(gem_tags, Tag):
         return None
 
-    gem_name = gem_tags.find_previous_sibling("a")
-    if not gem_name or not isinstance(gem_name, Tag):
+    gem_name_tag = gem_tags.find_previous_sibling("a")
+    if not gem_name_tag or not isinstance(gem_name_tag, Tag):
         return None
 
-    gem_level_text = gem_name.nextSibling
+    gem_name = gem_name_tag.get_text(strip=True)
+    vaal: bool = gem_name.startswith("Vaal")
+
+    gem_level_text = gem_name_tag.nextSibling
     gem_level_matches = re.findall(r"\d+", str(gem_level_text))
     gem_level = int(gem_level_matches[0]) if gem_level_matches else None
 
@@ -47,9 +50,10 @@ def extract_gem_info(row: Tag) -> dict[str, Any] | None:
     image_url = img_tag["src"] if img_tag and isinstance(img_tag, Tag) else ""
 
     return {
-        "name": gem_name.get_text(strip=True),
+        "name": gem_name,
+        "vaal": vaal,
         "level": gem_level,
-        "link": f"https://poedb.tw{gem_name.get('href', '')}",
+        "link": f"https://poedb.tw{gem_name_tag.get('href', '')}",
         "image_url": image_url,
         "tags": [tag.strip() for tag in gem_tags.get_text(", ").split(",")],
         "alternative_quality": alternate_quality,
