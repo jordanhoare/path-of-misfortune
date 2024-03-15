@@ -11,9 +11,22 @@ skill_gems = SkillGem.from_json()
 
 st.title("Path of Misfortune")
 
+excluded_tags = {"aura", "link", "travel"}
+filtered_skill_gems = [
+    gem
+    for gem in skill_gems
+    if not gem.alternative_quality and not set(gem.tags).intersection(excluded_tags)
+]
+
+skill_count = int(
+    st.number_input("Number of skills", min_value=1, max_value=10, value=3)
+)
+
 if st.button("Roll"):
     ascendancy = random.choice(ascendancies)
-    skills: list[SkillGem] = random.sample(skill_gems, 3)
+
+    available_skill_count = min(skill_count, len(filtered_skill_gems))
+    skills: list[SkillGem] = random.sample(filtered_skill_gems, available_skill_count)
 
     ascendancy_card(ascendancy)
     st.write("Skills:")
@@ -21,7 +34,5 @@ if st.button("Roll"):
         skill_card(skill)
 
     st.balloons()
-
-
 else:
     st.write("Press the button to start!")
