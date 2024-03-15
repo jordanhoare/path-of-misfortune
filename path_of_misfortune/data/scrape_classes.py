@@ -42,7 +42,7 @@ def extract_class_info(row: BeautifulSoup) -> list[dict[str, Any]]:
                 class_info.append(
                     {
                         "ascendancy": ascendancy_name,
-                        "class": character_class,
+                        "character": character_class,
                         "image_url": image_url,
                     }
                 )
