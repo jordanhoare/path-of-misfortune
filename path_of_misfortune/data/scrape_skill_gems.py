@@ -1,5 +1,6 @@
 import json
 import logging
+import re
 from typing import Any
 
 import requests
@@ -14,7 +15,7 @@ def fetch_page(url: str) -> BeautifulSoup | None:
     """Fetches the webpage and returns a BeautifulSoup object."""
     try:
         response = requests.get(url)
-        response.raise_for_status()  # Raise an error for bad responses
+        response.raise_for_status()
     except requests.RequestException as e:
         logging.error(f"Error fetching {url}: {e}")
         return None
@@ -22,32 +23,37 @@ def fetch_page(url: str) -> BeautifulSoup | None:
 
 
 def extract_gem_info(row: Tag) -> dict[str, Any] | None:
+
+    data_hover_tag = row.find("a", attrs={"data-hover": True})
+    if not data_hover_tag or not isinstance(data_hover_tag, Tag):
+        return None
+
+    data_hover_value = data_hover_tag.get("data-hover", "")
+    alternate_quality = data_hover_value[-4:] in ["AltX", "AltY", "AltZ"]  # type: ignore[index, operator]
+
+    gem_tags = row.find("div", class_="gem_tags small")
+    if not gem_tags or not isinstance(gem_tags, Tag):
+        return None
+
+    gem_name = gem_tags.find_previous_sibling("a")
+    if not gem_name or not isinstance(gem_name, Tag):
+        return None
+
+    gem_level_text = gem_name.nextSibling
+    gem_level_matches = re.findall(r"\d+", str(gem_level_text))
+    gem_level = int(gem_level_matches[0]) if gem_level_matches else None
+
     img_tag = row.find("img")
-    gem_name_tags = row.find_all("td")
-    if len(gem_name_tags) > 1 and isinstance(gem_name_tags[1], Tag):
-        gem_name_tag = gem_name_tags[1].find("a")
-        if gem_name_tag and isinstance(gem_name_tag, Tag):
-            gem_link = f"https://poedb.tw{gem_name_tag.get('href', '')}"
+    image_url = img_tag["src"] if img_tag and isinstance(img_tag, Tag) else ""
 
-            gem_name = gem_name_tag.get_text(strip=True)
-            gem_image_url = (
-                img_tag["src"] if img_tag and isinstance(img_tag, Tag) else None
-            )
-            tags_str = row.get(
-                "data-tags", ""
-            )  # This should not cause an error as it's correct usage
-            gem_tags = tags_str.split() if isinstance(tags_str, str) else []
-
-            return {
-                "name": gem_name,
-                "link": gem_link,
-                "image_url": gem_image_url,
-                "tags": gem_tags,
-            }
-    logging.warning(
-        "Missing gem name or link for row: likely incorrect HTML structure."
-    )
-    return None
+    return {
+        "name": gem_name.get_text(strip=True),
+        "level": gem_level,
+        "link": f"https://poedb.tw{gem_name.get('href', '')}",
+        "image_url": image_url,
+        "tags": [tag.strip() for tag in gem_tags.get_text(", ").split(",")],
+        "alternative_quality": alternate_quality,
+    }
 
 
 def scrape_skill_gems(url: str) -> list[dict[str, Any]]:

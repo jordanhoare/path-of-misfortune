@@ -5,9 +5,11 @@ from dataclasses import dataclass, field
 @dataclass
 class SkillGem:
     name: str
+    level: int
     link: str
     image_url: str | None = None
     tags: list[str] = field(default_factory=list)
+    alternative_quality: bool = False
 
     @classmethod
     def from_json(
