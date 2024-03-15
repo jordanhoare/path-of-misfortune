@@ -47,3 +47,11 @@ To launch the "Path of Misfortune" app, use Task to start the Streamlit server. 
 task streamlit:start 
 # Alternatively: poetry run streamlit run path_of_misfortune/app.py
 ```
+
+### Running Code Quality Checks
+Run the following command to perform all code quality checks:
+
+```zsh
+task code_quality:all
+# Alternatively: poetry run ruff --check
+```

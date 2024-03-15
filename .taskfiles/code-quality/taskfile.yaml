@@ -1,0 +1,31 @@
+---
+version: "3"
+
+tasks:
+  lint:
+    desc: Run Ruff to check Python code for style and syntax issues.
+    cmds:
+      - poetry run ruff check .
+
+  format-isort:
+    desc: Run iSort to sort import statements.
+    cmds:
+      - poetry run isort .
+
+  format-black:
+    desc: Run Black to format Python code.
+    cmds:
+      - poetry run black .
+
+  type-check:
+    desc: Run mypy for static type checking.
+    cmds:
+      - poetry run mypy .
+
+  all:
+    desc: Run all code quality checks (linting, formatting, type-checking)
+    cmds:
+      - task: lint
+      - task: format-black
+      - task: format-isort
+      - task: type-check

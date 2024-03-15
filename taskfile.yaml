@@ -3,8 +3,18 @@ version: "3"
 
 includes:
   streamlit: .taskfiles/streamlit/taskfile.yaml
-  
+  code_quality: .taskfiles/code-quality/taskfile.yaml
+
 tasks:
   default:
+    desc: "Start the Streamlit server for the Path of Misfortune app."
     cmds:
       - task: streamlit.start
+
+  run-code-quality:
+    desc: "Perform comprehensive code quality checks including linting with Ruff, import sorting with iSort, and type checking with mypy."
+    cmds:
+      - task: code_quality.lint
+      - task: code_quality.format-black
+      - task: code_quality.format-isort
+      - task: code_quality.type-check
