@@ -1,0 +1,6 @@
+[runner]
+enforceSerializableSessionState = true
+
+[logger]
+level = "info"
+messageFormat = "%(asctime)s %(message)s"

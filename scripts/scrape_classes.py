@@ -76,7 +76,7 @@ def save_to_json(data: list[dict[str, Any]], path: str) -> None:
 
 def main() -> None:
     classes = scrape_classes(POEDB_URL)
-    save_to_json(classes, "path_of_misfortune/data/classes.json")
+    save_to_json(classes, "app/data/classes.json")
     logging.info(f"Scraped and saved {len(classes)} classes/ascendancies.")
 
 

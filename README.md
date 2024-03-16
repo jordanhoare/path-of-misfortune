@@ -44,7 +44,7 @@ To launch the "Path of Misfortune" app, use Task to start the Streamlit server. 
 
 ```zsh
 task streamlit:start 
-# Alternatively: poetry run streamlit run path_of_misfortune/app.py
+# Alternatively: poetry run streamlit run app/main.py
 ```
 
 ### Running Code Quality Checks
@@ -56,9 +56,25 @@ task code_quality:all
 ```
 
 ### Scrape skill gem data
-Run the following command to run a bsoup scrap on skill gem data:
+Run the following command to run a bsoup scrape on skill gem data:
 
 ```zsh
 task scrape:gems
-# Alternatively: poetry run python path_of_misfortune/data/scrape_skill_gems.py
+# Alternatively: poetry run python scripts/scrape_skill_gems.py
 ```
+
+### Scrape class/ascendancy data
+Run the following command to run a bsoup scrape on classes data:
+
+```zsh
+task scrape:classes
+# Alternatively: poetry run python scripts/scrape_classes.py
+```
+
+<br>
+
+## Todo
+
+- [] Add state handling and ui [pills](https://pills-component.streamlit.app/) on config page
+- [] Load data from [ggpk](https://github.com/OmegaK2/PyPoE) instead of bs scraping
+- [] Add selective list of support gems to possible rolls (remove curses)

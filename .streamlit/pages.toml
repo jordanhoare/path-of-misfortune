@@ -1,0 +1,7 @@
+[[pages]]
+path = "app/pages/wheel.py"
+name = "Wheel"
+
+[[pages]]
+path = "app/pages/configuration.py"
+name = "Configuration"

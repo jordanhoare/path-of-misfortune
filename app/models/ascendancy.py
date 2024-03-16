@@ -10,7 +10,7 @@ class Ascendancy:
 
     @classmethod
     def from_json(
-        cls, json_file_path: str = "path_of_misfortune/data/classes.json"
+        cls, json_file_path: str = "app/data/classes.json"
     ) -> list["Ascendancy"]:
         with open(json_file_path, encoding="utf-8") as f:
             data = json.load(f)

@@ -2,9 +2,12 @@ import random
 
 import streamlit as st
 
-from path_of_misfortune.models.ascendancy import Ascendancy
-from path_of_misfortune.models.gems import SkillGem
-from path_of_misfortune.ui import ascendancy_card, skill_card
+from app.models import Ascendancy, SkillGem
+from app.ui import ascendancy_card, skill_card
+
+if "skill_count" not in st.session_state:
+    st.session_state["skill_count"] = 3
+
 
 ascendancies = Ascendancy.from_json()
 skill_gems = SkillGem.from_json()
@@ -24,7 +27,15 @@ remove_names = {
     "Arctic Armour",
 }
 
-excluded_tags = {"Aura", "Link", "Travel", "Herald", "Stance", "Guard", "Mark"}
+excluded_tags = {
+    "Aura",
+    "Link",
+    "Travel",
+    "Herald",
+    "Stance",
+    "Guard",
+    "Mark",
+}  # TODO: curses
 
 filtered_skill_gems = [
     gem
@@ -35,14 +46,11 @@ filtered_skill_gems = [
     and not set(gem.tags).intersection(excluded_tags)
 ]
 
-skill_count = int(
-    st.number_input("Number of skills", min_value=1, max_value=10, value=3)
-)
 
 if st.button("Roll"):
     ascendancy = random.choice(ascendancies)
 
-    available_skill_count = min(skill_count, len(filtered_skill_gems))
+    available_skill_count = min(st.session_state.skill_count, len(filtered_skill_gems))
     skills: list[SkillGem] = random.sample(filtered_skill_gems, available_skill_count)
 
     ascendancy_card(ascendancy)

@@ -89,7 +89,7 @@ def save_to_json(data: list[dict[str, Any]], path: str) -> None:
 
 def main() -> None:
     gems_data = scrape_skill_gems(POEDB_URL)
-    save_to_json(gems_data, "path_of_misfortune/data/skill_gems.json")
+    save_to_json(gems_data, "app/data/skill_gems.json")
     logging.info(f"Scraped and saved {len(gems_data)} skill gems.")
 
 

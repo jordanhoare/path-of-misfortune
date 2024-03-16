@@ -14,7 +14,7 @@ class SkillGem:
 
     @classmethod
     def from_json(
-        cls, json_file_path: str = "path_of_misfortune/data/skill_gems.json"
+        cls, json_file_path: str = "app/data/skill_gems.json"
     ) -> list["SkillGem"]:
         with open(json_file_path, encoding="utf-8") as f:
             data = json.load(f)
